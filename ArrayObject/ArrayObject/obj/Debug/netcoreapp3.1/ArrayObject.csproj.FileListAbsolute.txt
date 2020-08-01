@@ -1,0 +1,11 @@
+D:\Rashi\ArrayObject\ArrayObject\bin\Debug\netcoreapp3.1\ArrayObject.exe
+D:\Rashi\ArrayObject\ArrayObject\bin\Debug\netcoreapp3.1\ArrayObject.deps.json
+D:\Rashi\ArrayObject\ArrayObject\bin\Debug\netcoreapp3.1\ArrayObject.runtimeconfig.json
+D:\Rashi\ArrayObject\ArrayObject\bin\Debug\netcoreapp3.1\ArrayObject.runtimeconfig.dev.json
+D:\Rashi\ArrayObject\ArrayObject\bin\Debug\netcoreapp3.1\ArrayObject.dll
+D:\Rashi\ArrayObject\ArrayObject\bin\Debug\netcoreapp3.1\ArrayObject.pdb
+D:\Rashi\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.csprojAssemblyReference.cache
+D:\Rashi\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.AssemblyInfoInputs.cache
+D:\Rashi\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.AssemblyInfo.cs
+D:\Rashi\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.dll
+D:\Rashi\ArrayObject\ArrayObject\obj\Debug\netcoreapp3.1\ArrayObject.pdb
