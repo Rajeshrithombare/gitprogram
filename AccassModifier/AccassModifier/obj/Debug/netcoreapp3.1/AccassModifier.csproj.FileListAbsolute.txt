@@ -1,0 +1,10 @@
+D:\Rashi\AccassModifier\AccassModifier\bin\Debug\netcoreapp3.1\AccassModifier.exe
+D:\Rashi\AccassModifier\AccassModifier\bin\Debug\netcoreapp3.1\AccassModifier.deps.json
+D:\Rashi\AccassModifier\AccassModifier\bin\Debug\netcoreapp3.1\AccassModifier.runtimeconfig.json
+D:\Rashi\AccassModifier\AccassModifier\bin\Debug\netcoreapp3.1\AccassModifier.runtimeconfig.dev.json
+D:\Rashi\AccassModifier\AccassModifier\bin\Debug\netcoreapp3.1\AccassModifier.dll
+D:\Rashi\AccassModifier\AccassModifier\bin\Debug\netcoreapp3.1\AccassModifier.pdb
+D:\Rashi\AccassModifier\AccassModifier\obj\Debug\netcoreapp3.1\AccassModifier.AssemblyInfoInputs.cache
+D:\Rashi\AccassModifier\AccassModifier\obj\Debug\netcoreapp3.1\AccassModifier.AssemblyInfo.cs
+D:\Rashi\AccassModifier\AccassModifier\obj\Debug\netcoreapp3.1\AccassModifier.dll
+D:\Rashi\AccassModifier\AccassModifier\obj\Debug\netcoreapp3.1\AccassModifier.pdb
