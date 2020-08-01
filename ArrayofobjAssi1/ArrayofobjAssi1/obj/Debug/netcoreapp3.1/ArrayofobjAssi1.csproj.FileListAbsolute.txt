@@ -1,0 +1,11 @@
+D:\Rashi\ArrayofobjAssi1\ArrayofobjAssi1\bin\Debug\netcoreapp3.1\ArrayofobjAssi1.exe
+D:\Rashi\ArrayofobjAssi1\ArrayofobjAssi1\bin\Debug\netcoreapp3.1\ArrayofobjAssi1.deps.json
+D:\Rashi\ArrayofobjAssi1\ArrayofobjAssi1\bin\Debug\netcoreapp3.1\ArrayofobjAssi1.runtimeconfig.json
+D:\Rashi\ArrayofobjAssi1\ArrayofobjAssi1\bin\Debug\netcoreapp3.1\ArrayofobjAssi1.runtimeconfig.dev.json
+D:\Rashi\ArrayofobjAssi1\ArrayofobjAssi1\bin\Debug\netcoreapp3.1\ArrayofobjAssi1.dll
+D:\Rashi\ArrayofobjAssi1\ArrayofobjAssi1\bin\Debug\netcoreapp3.1\ArrayofobjAssi1.pdb
+D:\Rashi\ArrayofobjAssi1\ArrayofobjAssi1\obj\Debug\netcoreapp3.1\ArrayofobjAssi1.csprojAssemblyReference.cache
+D:\Rashi\ArrayofobjAssi1\ArrayofobjAssi1\obj\Debug\netcoreapp3.1\ArrayofobjAssi1.AssemblyInfoInputs.cache
+D:\Rashi\ArrayofobjAssi1\ArrayofobjAssi1\obj\Debug\netcoreapp3.1\ArrayofobjAssi1.AssemblyInfo.cs
+D:\Rashi\ArrayofobjAssi1\ArrayofobjAssi1\obj\Debug\netcoreapp3.1\ArrayofobjAssi1.dll
+D:\Rashi\ArrayofobjAssi1\ArrayofobjAssi1\obj\Debug\netcoreapp3.1\ArrayofobjAssi1.pdb
