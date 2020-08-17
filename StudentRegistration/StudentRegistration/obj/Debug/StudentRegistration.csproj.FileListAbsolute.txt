@@ -56,4 +56,3 @@ D:\Rashi\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.c
 D:\Rashi\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.CopyComplete
 D:\Rashi\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.dll
 D:\Rashi\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
-D:\Rashi\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojAssemblyReference.cache
