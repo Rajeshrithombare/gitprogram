@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "welcome";
+}
+@if (Session["Email_id"] != null)
+{
+    <h2>welcome @Session["Email_id"].ToString()</h2>
+
+    <h3 align="center">User Registration Form</h3>
+
+        <h4 align="center"> Detaile Is</h4>
+        <tr>
+            <td>
+            <th>User Name : </th>
+
+            @ViewData["uname"].ToString()
+            </td>
+            <br />
+        </tr>
+
+        <tr>
+            <td>
+            <th> Email_id : </th>
+
+            @ViewData["Email_id"].ToString()
+            </td>
+            <br />
+        </tr>
+        <tr>
+            <td>
+            <th>Gender : </th>
+
+            @ViewData["Gender"].ToString()
+
+            </td>
+            <br />
+        </tr>
+}
+

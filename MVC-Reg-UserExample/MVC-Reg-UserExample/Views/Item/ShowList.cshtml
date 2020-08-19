@@ -1,0 +1,59 @@
+﻿@model IEnumerable<MVC_Reg_UserExample.Models.UserClass>
+
+@{
+    ViewBag.Title = "ShowList";
+}
+
+<h2>User Registration Detail</h2>
+<h3>@ViewBag.Msg</h3>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        @* <th>
+            @Html.DisplayNameFor(model => model.RePassword)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.UserName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Email_id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Password)
+    </td>
+    @* <td>
+            @Html.DisplayFor(modelItem => item.RePassword)
+        </td>*@
+    <td>
+        @Html.DisplayFor(modelItem => item.Gender)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Update", new { /* id=item.PrimaryKey */ }) |
+        @Html.ActionLink("Details", "Detail", new { /* id=item.PrimaryKey */ }) |
+        @Html.ActionLink("Delete", "DeleteRecord", new { name=item.UserName })
+    </td>
+</tr>
+}
+
+</table>
+@*name =@ViewBag.uname*@
