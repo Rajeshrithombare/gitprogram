@@ -1,0 +1,81 @@
+﻿@model IEnumerable<MVC_Reg_UserExample.Models.UserClass>
+
+@{
+    ViewBag.Title = "ShowList";
+}
+
+<h2>User Registration Detail</h2>
+
+
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)
+
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        @* <th>
+                @Html.DisplayNameFor(model => model.RePassword)
+            </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.UserImage)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.UserName)
+        @ViewBag.UserName
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Email_id)
+        @ViewBag.Email_id
+
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Password)
+        @ViewBag.Password
+
+    </td>
+    @* <td>
+            @Html.DisplayFor(modelItem => item.RePassword)
+        </td>*@
+    <td>
+        @Html.DisplayFor(modelItem => item.Gender)
+        @ViewBag.Gender
+
+    </td>
+
+
+    <td>
+       @* @Html.DisplayFor(modelItem => item.UserImage)*@
+        <img src="@ViewBag.UserImage" width="250" height="200" alt="Alternate Text" />
+    </td>
+
+    <td>
+        @Html.ActionLink("Edit", "Update", new { /* id=item.PrimaryKey */ }) |
+        @Html.ActionLink("Details", "Detail", new { /* id=item.PrimaryKey */ }) |
+        @Html.ActionLink("Delete", "DeleteRecord", new { name = item.UserName })
+    </td>
+</tr>
+    }
+
+</table>
+@*name =@ViewBag.uname*@
