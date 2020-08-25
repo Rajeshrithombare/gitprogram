@@ -4,7 +4,14 @@
 }
 @if (Session["Email_id"] != null)
 {
-    <h2>welcome @Session["Email_id"].ToString()</h2>
+    <h2 align="center">Welcome @Session["Email_id"].ToString()</h2>
+    <tr>
+        <td>
+        <td><b>User Profile</b></td>
+        <img src="@ViewBag.UserImage" width="250" height="200" alt="Alternate Text" />
+        </td>
+    </tr>
+    <hr style="height:2px;border-width:0;color:rebeccapurple;background-color:rebeccapurple">
 
     <h3 align="center">User Registration Form</h3>
 
@@ -38,6 +45,7 @@
 
 
 
-    
+
+
 }
 

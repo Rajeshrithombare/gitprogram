@@ -48,7 +48,7 @@ namespace MVC_Reg_UserExample.Controllers
         }
 
 
-        public ActionResult welcome()
+        public ActionResult welcome(UserClass uc1)
         {
            string maincon2 = ConfigurationManager.ConnectionStrings["MyConnection"].ConnectionString;
             SqlConnection con2 = new SqlConnection(maincon2);
@@ -90,18 +90,24 @@ namespace MVC_Reg_UserExample.Controllers
 
 
             con2.Open();
-            string log = "select UserName,Email_id,Gender from BinaryImage where Email_id='" + Session["Email_id"] + "'";
+            string log = "select UserName,Email_id,Password,Gender,UserImage from BinaryImage where Email_id='" + Session["Email_id"] + "'";
             SqlDataAdapter adapter = new SqlDataAdapter(log, con2);
             DataSet ds = new DataSet();
             adapter.Fill(ds, "BinaryImage");
+            var userclass = new List<UserClass>();
             foreach (DataRow dr in ds.Tables["BinaryImage"].Rows)
             {
                 ViewData["uname"] = dr["UserName"].ToString();
                 ViewData["Email_id"] = dr["Email_id"].ToString();
                 ViewData["Gender"] = dr["Gender"].ToString();
+                userclass.Add(new UserClass(uc1.UserName = dr["UserName"].ToString(), uc1.Email_id = dr["Email_id"].ToString(), uc1.Password = dr["Password"].ToString(), uc1.Gender = dr["Gender"].ToString(), uc1.UserImage = (byte[])dr["UserImage"]));
+                byte[] pic = (byte[])dr["UserImage"];
+                string p = Convert.ToBase64String(pic, 0, pic.Length);
+                string pi = "data:image/png;base64," + p;
+                ViewBag.UserImage = pi;
 
-                
-                
+
+
                 /*string imgPath = Server.MapPath("~/images/self-discipline.png");
                 // Convert image to byte array  
                 byte[] byteData = System.IO.File.ReadAllBytes(imgPath);
@@ -114,7 +120,7 @@ namespace MVC_Reg_UserExample.Controllers
             }
             con2.Close();
 
-            return View();
+            return View(userclass);
         }
 
         [HttpGet]
