@@ -1,0 +1,11 @@
+D:\Rashi\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.exe
+D:\Rashi\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.deps.json
+D:\Rashi\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.runtimeconfig.json
+D:\Rashi\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.runtimeconfig.dev.json
+D:\Rashi\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.dll
+D:\Rashi\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.pdb
+D:\Rashi\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.csprojAssemblyReference.cache
+D:\Rashi\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.AssemblyInfoInputs.cache
+D:\Rashi\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.AssemblyInfo.cs
+D:\Rashi\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.dll
+D:\Rashi\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.pdb
