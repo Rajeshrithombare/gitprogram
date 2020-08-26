@@ -1,0 +1,11 @@
+D:\Rashi\Patern\Patern\bin\Debug\netcoreapp3.1\Patern.exe
+D:\Rashi\Patern\Patern\bin\Debug\netcoreapp3.1\Patern.deps.json
+D:\Rashi\Patern\Patern\bin\Debug\netcoreapp3.1\Patern.runtimeconfig.json
+D:\Rashi\Patern\Patern\bin\Debug\netcoreapp3.1\Patern.runtimeconfig.dev.json
+D:\Rashi\Patern\Patern\bin\Debug\netcoreapp3.1\Patern.dll
+D:\Rashi\Patern\Patern\bin\Debug\netcoreapp3.1\Patern.pdb
+D:\Rashi\Patern\Patern\obj\Debug\netcoreapp3.1\Patern.csprojAssemblyReference.cache
+D:\Rashi\Patern\Patern\obj\Debug\netcoreapp3.1\Patern.AssemblyInfoInputs.cache
+D:\Rashi\Patern\Patern\obj\Debug\netcoreapp3.1\Patern.AssemblyInfo.cs
+D:\Rashi\Patern\Patern\obj\Debug\netcoreapp3.1\Patern.dll
+D:\Rashi\Patern\Patern\obj\Debug\netcoreapp3.1\Patern.pdb
