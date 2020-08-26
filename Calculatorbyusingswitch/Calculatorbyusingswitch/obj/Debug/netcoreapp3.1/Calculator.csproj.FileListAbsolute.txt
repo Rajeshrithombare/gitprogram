@@ -1,0 +1,11 @@
+D:\Rashi\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+D:\Rashi\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\Rashi\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+D:\Rashi\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+D:\Rashi\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\Rashi\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\Rashi\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+D:\Rashi\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\Rashi\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\Rashi\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\Rashi\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
