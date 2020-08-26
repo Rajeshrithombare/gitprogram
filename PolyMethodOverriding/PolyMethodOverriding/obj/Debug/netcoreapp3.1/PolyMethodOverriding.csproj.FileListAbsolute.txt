@@ -1,0 +1,10 @@
+D:\Rashi\PolyMethodOverriding\PolyMethodOverriding\bin\Debug\netcoreapp3.1\PolyMethodOverriding.exe
+D:\Rashi\PolyMethodOverriding\PolyMethodOverriding\bin\Debug\netcoreapp3.1\PolyMethodOverriding.deps.json
+D:\Rashi\PolyMethodOverriding\PolyMethodOverriding\bin\Debug\netcoreapp3.1\PolyMethodOverriding.runtimeconfig.json
+D:\Rashi\PolyMethodOverriding\PolyMethodOverriding\bin\Debug\netcoreapp3.1\PolyMethodOverriding.runtimeconfig.dev.json
+D:\Rashi\PolyMethodOverriding\PolyMethodOverriding\bin\Debug\netcoreapp3.1\PolyMethodOverriding.dll
+D:\Rashi\PolyMethodOverriding\PolyMethodOverriding\bin\Debug\netcoreapp3.1\PolyMethodOverriding.pdb
+D:\Rashi\PolyMethodOverriding\PolyMethodOverriding\obj\Debug\netcoreapp3.1\PolyMethodOverriding.AssemblyInfoInputs.cache
+D:\Rashi\PolyMethodOverriding\PolyMethodOverriding\obj\Debug\netcoreapp3.1\PolyMethodOverriding.AssemblyInfo.cs
+D:\Rashi\PolyMethodOverriding\PolyMethodOverriding\obj\Debug\netcoreapp3.1\PolyMethodOverriding.dll
+D:\Rashi\PolyMethodOverriding\PolyMethodOverriding\obj\Debug\netcoreapp3.1\PolyMethodOverriding.pdb
