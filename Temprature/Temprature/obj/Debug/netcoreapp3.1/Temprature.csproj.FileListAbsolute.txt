@@ -1,0 +1,10 @@
+D:\Rashi\Temprature\Temprature\bin\Debug\netcoreapp3.1\Temprature.exe
+D:\Rashi\Temprature\Temprature\bin\Debug\netcoreapp3.1\Temprature.deps.json
+D:\Rashi\Temprature\Temprature\bin\Debug\netcoreapp3.1\Temprature.runtimeconfig.json
+D:\Rashi\Temprature\Temprature\bin\Debug\netcoreapp3.1\Temprature.runtimeconfig.dev.json
+D:\Rashi\Temprature\Temprature\bin\Debug\netcoreapp3.1\Temprature.dll
+D:\Rashi\Temprature\Temprature\bin\Debug\netcoreapp3.1\Temprature.pdb
+D:\Rashi\Temprature\Temprature\obj\Debug\netcoreapp3.1\Temprature.AssemblyInfoInputs.cache
+D:\Rashi\Temprature\Temprature\obj\Debug\netcoreapp3.1\Temprature.AssemblyInfo.cs
+D:\Rashi\Temprature\Temprature\obj\Debug\netcoreapp3.1\Temprature.dll
+D:\Rashi\Temprature\Temprature\obj\Debug\netcoreapp3.1\Temprature.pdb
