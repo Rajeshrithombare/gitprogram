@@ -1,0 +1,11 @@
+D:\Rashi\Swaotonum\Swaotonum\obj\Debug\netcoreapp3.1\Swaotonum.csprojAssemblyReference.cache
+D:\Rashi\Swaotonum\Swaotonum\obj\Debug\netcoreapp3.1\Swaotonum.AssemblyInfoInputs.cache
+D:\Rashi\Swaotonum\Swaotonum\obj\Debug\netcoreapp3.1\Swaotonum.AssemblyInfo.cs
+D:\Rashi\Swaotonum\Swaotonum\bin\Debug\netcoreapp3.1\Swaotonum.exe
+D:\Rashi\Swaotonum\Swaotonum\bin\Debug\netcoreapp3.1\Swaotonum.deps.json
+D:\Rashi\Swaotonum\Swaotonum\bin\Debug\netcoreapp3.1\Swaotonum.runtimeconfig.json
+D:\Rashi\Swaotonum\Swaotonum\bin\Debug\netcoreapp3.1\Swaotonum.runtimeconfig.dev.json
+D:\Rashi\Swaotonum\Swaotonum\bin\Debug\netcoreapp3.1\Swaotonum.dll
+D:\Rashi\Swaotonum\Swaotonum\bin\Debug\netcoreapp3.1\Swaotonum.pdb
+D:\Rashi\Swaotonum\Swaotonum\obj\Debug\netcoreapp3.1\Swaotonum.dll
+D:\Rashi\Swaotonum\Swaotonum\obj\Debug\netcoreapp3.1\Swaotonum.pdb
