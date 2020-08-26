@@ -1,0 +1,11 @@
+D:\Rashi\dataobject\dataobject\bin\Debug\netcoreapp3.1\dataobject.exe
+D:\Rashi\dataobject\dataobject\bin\Debug\netcoreapp3.1\dataobject.deps.json
+D:\Rashi\dataobject\dataobject\bin\Debug\netcoreapp3.1\dataobject.runtimeconfig.json
+D:\Rashi\dataobject\dataobject\bin\Debug\netcoreapp3.1\dataobject.runtimeconfig.dev.json
+D:\Rashi\dataobject\dataobject\bin\Debug\netcoreapp3.1\dataobject.dll
+D:\Rashi\dataobject\dataobject\bin\Debug\netcoreapp3.1\dataobject.pdb
+D:\Rashi\dataobject\dataobject\obj\Debug\netcoreapp3.1\dataobject.csprojAssemblyReference.cache
+D:\Rashi\dataobject\dataobject\obj\Debug\netcoreapp3.1\dataobject.AssemblyInfoInputs.cache
+D:\Rashi\dataobject\dataobject\obj\Debug\netcoreapp3.1\dataobject.AssemblyInfo.cs
+D:\Rashi\dataobject\dataobject\obj\Debug\netcoreapp3.1\dataobject.dll
+D:\Rashi\dataobject\dataobject\obj\Debug\netcoreapp3.1\dataobject.pdb
