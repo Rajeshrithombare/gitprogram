@@ -1,0 +1,11 @@
+D:\Rashi\Geternumbet3num\Geternumbet3num\bin\Debug\netcoreapp3.1\Geternumbet3num.exe
+D:\Rashi\Geternumbet3num\Geternumbet3num\bin\Debug\netcoreapp3.1\Geternumbet3num.deps.json
+D:\Rashi\Geternumbet3num\Geternumbet3num\bin\Debug\netcoreapp3.1\Geternumbet3num.runtimeconfig.json
+D:\Rashi\Geternumbet3num\Geternumbet3num\bin\Debug\netcoreapp3.1\Geternumbet3num.runtimeconfig.dev.json
+D:\Rashi\Geternumbet3num\Geternumbet3num\bin\Debug\netcoreapp3.1\Geternumbet3num.dll
+D:\Rashi\Geternumbet3num\Geternumbet3num\bin\Debug\netcoreapp3.1\Geternumbet3num.pdb
+D:\Rashi\Geternumbet3num\Geternumbet3num\obj\Debug\netcoreapp3.1\Geternumbet3num.csprojAssemblyReference.cache
+D:\Rashi\Geternumbet3num\Geternumbet3num\obj\Debug\netcoreapp3.1\Geternumbet3num.AssemblyInfoInputs.cache
+D:\Rashi\Geternumbet3num\Geternumbet3num\obj\Debug\netcoreapp3.1\Geternumbet3num.AssemblyInfo.cs
+D:\Rashi\Geternumbet3num\Geternumbet3num\obj\Debug\netcoreapp3.1\Geternumbet3num.dll
+D:\Rashi\Geternumbet3num\Geternumbet3num\obj\Debug\netcoreapp3.1\Geternumbet3num.pdb
