@@ -1,0 +1,11 @@
+D:\Rashi\Febonaciass24\Febonaciass24\bin\Debug\netcoreapp3.1\Febonaciass24.exe
+D:\Rashi\Febonaciass24\Febonaciass24\bin\Debug\netcoreapp3.1\Febonaciass24.deps.json
+D:\Rashi\Febonaciass24\Febonaciass24\bin\Debug\netcoreapp3.1\Febonaciass24.runtimeconfig.json
+D:\Rashi\Febonaciass24\Febonaciass24\bin\Debug\netcoreapp3.1\Febonaciass24.runtimeconfig.dev.json
+D:\Rashi\Febonaciass24\Febonaciass24\bin\Debug\netcoreapp3.1\Febonaciass24.dll
+D:\Rashi\Febonaciass24\Febonaciass24\bin\Debug\netcoreapp3.1\Febonaciass24.pdb
+D:\Rashi\Febonaciass24\Febonaciass24\obj\Debug\netcoreapp3.1\Febonaciass24.AssemblyInfoInputs.cache
+D:\Rashi\Febonaciass24\Febonaciass24\obj\Debug\netcoreapp3.1\Febonaciass24.AssemblyInfo.cs
+D:\Rashi\Febonaciass24\Febonaciass24\obj\Debug\netcoreapp3.1\Febonaciass24.dll
+D:\Rashi\Febonaciass24\Febonaciass24\obj\Debug\netcoreapp3.1\Febonaciass24.pdb
+D:\Rashi\Febonaciass24\Febonaciass24\obj\Debug\netcoreapp3.1\Febonaciass24.csprojAssemblyReference.cache
