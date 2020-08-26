@@ -1,0 +1,10 @@
+D:\Rashi\gretternuifelse\gretternuifelse\bin\Debug\netcoreapp3.1\gretternuifelse.exe
+D:\Rashi\gretternuifelse\gretternuifelse\bin\Debug\netcoreapp3.1\gretternuifelse.deps.json
+D:\Rashi\gretternuifelse\gretternuifelse\bin\Debug\netcoreapp3.1\gretternuifelse.runtimeconfig.json
+D:\Rashi\gretternuifelse\gretternuifelse\bin\Debug\netcoreapp3.1\gretternuifelse.runtimeconfig.dev.json
+D:\Rashi\gretternuifelse\gretternuifelse\bin\Debug\netcoreapp3.1\gretternuifelse.dll
+D:\Rashi\gretternuifelse\gretternuifelse\bin\Debug\netcoreapp3.1\gretternuifelse.pdb
+D:\Rashi\gretternuifelse\gretternuifelse\obj\Debug\netcoreapp3.1\gretternuifelse.AssemblyInfoInputs.cache
+D:\Rashi\gretternuifelse\gretternuifelse\obj\Debug\netcoreapp3.1\gretternuifelse.AssemblyInfo.cs
+D:\Rashi\gretternuifelse\gretternuifelse\obj\Debug\netcoreapp3.1\gretternuifelse.dll
+D:\Rashi\gretternuifelse\gretternuifelse\obj\Debug\netcoreapp3.1\gretternuifelse.pdb
