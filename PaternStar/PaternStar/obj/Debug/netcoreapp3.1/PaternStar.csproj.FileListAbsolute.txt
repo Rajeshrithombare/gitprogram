@@ -1,0 +1,11 @@
+D:\Rashi\PaternStar\PaternStar\bin\Debug\netcoreapp3.1\PaternStar.exe
+D:\Rashi\PaternStar\PaternStar\bin\Debug\netcoreapp3.1\PaternStar.deps.json
+D:\Rashi\PaternStar\PaternStar\bin\Debug\netcoreapp3.1\PaternStar.runtimeconfig.json
+D:\Rashi\PaternStar\PaternStar\bin\Debug\netcoreapp3.1\PaternStar.runtimeconfig.dev.json
+D:\Rashi\PaternStar\PaternStar\bin\Debug\netcoreapp3.1\PaternStar.dll
+D:\Rashi\PaternStar\PaternStar\bin\Debug\netcoreapp3.1\PaternStar.pdb
+D:\Rashi\PaternStar\PaternStar\obj\Debug\netcoreapp3.1\PaternStar.AssemblyInfoInputs.cache
+D:\Rashi\PaternStar\PaternStar\obj\Debug\netcoreapp3.1\PaternStar.AssemblyInfo.cs
+D:\Rashi\PaternStar\PaternStar\obj\Debug\netcoreapp3.1\PaternStar.dll
+D:\Rashi\PaternStar\PaternStar\obj\Debug\netcoreapp3.1\PaternStar.pdb
+D:\Rashi\PaternStar\PaternStar\obj\Debug\netcoreapp3.1\PaternStar.csprojAssemblyReference.cache
