@@ -1,0 +1,11 @@
+D:\Rashi\nwpro\nwpro\bin\Debug\netcoreapp3.1\nwpro.exe
+D:\Rashi\nwpro\nwpro\bin\Debug\netcoreapp3.1\nwpro.deps.json
+D:\Rashi\nwpro\nwpro\bin\Debug\netcoreapp3.1\nwpro.runtimeconfig.json
+D:\Rashi\nwpro\nwpro\bin\Debug\netcoreapp3.1\nwpro.runtimeconfig.dev.json
+D:\Rashi\nwpro\nwpro\bin\Debug\netcoreapp3.1\nwpro.dll
+D:\Rashi\nwpro\nwpro\bin\Debug\netcoreapp3.1\nwpro.pdb
+D:\Rashi\nwpro\nwpro\obj\Debug\netcoreapp3.1\nwpro.csprojAssemblyReference.cache
+D:\Rashi\nwpro\nwpro\obj\Debug\netcoreapp3.1\nwpro.AssemblyInfoInputs.cache
+D:\Rashi\nwpro\nwpro\obj\Debug\netcoreapp3.1\nwpro.AssemblyInfo.cs
+D:\Rashi\nwpro\nwpro\obj\Debug\netcoreapp3.1\nwpro.dll
+D:\Rashi\nwpro\nwpro\obj\Debug\netcoreapp3.1\nwpro.pdb
