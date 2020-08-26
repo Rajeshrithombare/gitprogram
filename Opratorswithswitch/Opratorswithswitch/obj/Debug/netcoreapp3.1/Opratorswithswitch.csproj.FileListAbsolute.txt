@@ -1,0 +1,11 @@
+D:\Rashi\Opratorswithswitch\Opratorswithswitch\obj\Debug\netcoreapp3.1\Opratorswithswitch.csprojAssemblyReference.cache
+D:\Rashi\Opratorswithswitch\Opratorswithswitch\obj\Debug\netcoreapp3.1\Opratorswithswitch.AssemblyInfoInputs.cache
+D:\Rashi\Opratorswithswitch\Opratorswithswitch\obj\Debug\netcoreapp3.1\Opratorswithswitch.AssemblyInfo.cs
+D:\Rashi\Opratorswithswitch\Opratorswithswitch\bin\Debug\netcoreapp3.1\Opratorswithswitch.exe
+D:\Rashi\Opratorswithswitch\Opratorswithswitch\bin\Debug\netcoreapp3.1\Opratorswithswitch.deps.json
+D:\Rashi\Opratorswithswitch\Opratorswithswitch\bin\Debug\netcoreapp3.1\Opratorswithswitch.runtimeconfig.json
+D:\Rashi\Opratorswithswitch\Opratorswithswitch\bin\Debug\netcoreapp3.1\Opratorswithswitch.runtimeconfig.dev.json
+D:\Rashi\Opratorswithswitch\Opratorswithswitch\bin\Debug\netcoreapp3.1\Opratorswithswitch.dll
+D:\Rashi\Opratorswithswitch\Opratorswithswitch\bin\Debug\netcoreapp3.1\Opratorswithswitch.pdb
+D:\Rashi\Opratorswithswitch\Opratorswithswitch\obj\Debug\netcoreapp3.1\Opratorswithswitch.dll
+D:\Rashi\Opratorswithswitch\Opratorswithswitch\obj\Debug\netcoreapp3.1\Opratorswithswitch.pdb
