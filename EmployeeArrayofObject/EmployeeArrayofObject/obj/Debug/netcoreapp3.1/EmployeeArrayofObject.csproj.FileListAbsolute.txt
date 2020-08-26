@@ -1,0 +1,11 @@
+D:\Rashi\EmployeeArrayofObject\EmployeeArrayofObject\bin\Debug\netcoreapp3.1\EmployeeArrayofObject.exe
+D:\Rashi\EmployeeArrayofObject\EmployeeArrayofObject\bin\Debug\netcoreapp3.1\EmployeeArrayofObject.deps.json
+D:\Rashi\EmployeeArrayofObject\EmployeeArrayofObject\bin\Debug\netcoreapp3.1\EmployeeArrayofObject.runtimeconfig.json
+D:\Rashi\EmployeeArrayofObject\EmployeeArrayofObject\bin\Debug\netcoreapp3.1\EmployeeArrayofObject.runtimeconfig.dev.json
+D:\Rashi\EmployeeArrayofObject\EmployeeArrayofObject\bin\Debug\netcoreapp3.1\EmployeeArrayofObject.dll
+D:\Rashi\EmployeeArrayofObject\EmployeeArrayofObject\bin\Debug\netcoreapp3.1\EmployeeArrayofObject.pdb
+D:\Rashi\EmployeeArrayofObject\EmployeeArrayofObject\obj\Debug\netcoreapp3.1\EmployeeArrayofObject.csprojAssemblyReference.cache
+D:\Rashi\EmployeeArrayofObject\EmployeeArrayofObject\obj\Debug\netcoreapp3.1\EmployeeArrayofObject.AssemblyInfoInputs.cache
+D:\Rashi\EmployeeArrayofObject\EmployeeArrayofObject\obj\Debug\netcoreapp3.1\EmployeeArrayofObject.AssemblyInfo.cs
+D:\Rashi\EmployeeArrayofObject\EmployeeArrayofObject\obj\Debug\netcoreapp3.1\EmployeeArrayofObject.dll
+D:\Rashi\EmployeeArrayofObject\EmployeeArrayofObject\obj\Debug\netcoreapp3.1\EmployeeArrayofObject.pdb
