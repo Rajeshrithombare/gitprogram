@@ -1,0 +1,11 @@
+D:\Rashi\singlelinestatement\singlelinestatement\bin\Debug\netcoreapp3.1\singlelinestatement.exe
+D:\Rashi\singlelinestatement\singlelinestatement\bin\Debug\netcoreapp3.1\singlelinestatement.deps.json
+D:\Rashi\singlelinestatement\singlelinestatement\bin\Debug\netcoreapp3.1\singlelinestatement.runtimeconfig.json
+D:\Rashi\singlelinestatement\singlelinestatement\bin\Debug\netcoreapp3.1\singlelinestatement.runtimeconfig.dev.json
+D:\Rashi\singlelinestatement\singlelinestatement\bin\Debug\netcoreapp3.1\singlelinestatement.dll
+D:\Rashi\singlelinestatement\singlelinestatement\bin\Debug\netcoreapp3.1\singlelinestatement.pdb
+D:\Rashi\singlelinestatement\singlelinestatement\obj\Debug\netcoreapp3.1\singlelinestatement.AssemblyInfoInputs.cache
+D:\Rashi\singlelinestatement\singlelinestatement\obj\Debug\netcoreapp3.1\singlelinestatement.AssemblyInfo.cs
+D:\Rashi\singlelinestatement\singlelinestatement\obj\Debug\netcoreapp3.1\singlelinestatement.dll
+D:\Rashi\singlelinestatement\singlelinestatement\obj\Debug\netcoreapp3.1\singlelinestatement.pdb
+D:\Rashi\singlelinestatement\singlelinestatement\obj\Debug\netcoreapp3.1\singlelinestatement.csprojAssemblyReference.cache
