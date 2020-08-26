@@ -1,0 +1,11 @@
+D:\Rashi\Choiseforaddsub\Choiseforaddsub\bin\Debug\netcoreapp3.1\Choiseforaddsub.exe
+D:\Rashi\Choiseforaddsub\Choiseforaddsub\bin\Debug\netcoreapp3.1\Choiseforaddsub.deps.json
+D:\Rashi\Choiseforaddsub\Choiseforaddsub\bin\Debug\netcoreapp3.1\Choiseforaddsub.runtimeconfig.json
+D:\Rashi\Choiseforaddsub\Choiseforaddsub\bin\Debug\netcoreapp3.1\Choiseforaddsub.runtimeconfig.dev.json
+D:\Rashi\Choiseforaddsub\Choiseforaddsub\bin\Debug\netcoreapp3.1\Choiseforaddsub.dll
+D:\Rashi\Choiseforaddsub\Choiseforaddsub\bin\Debug\netcoreapp3.1\Choiseforaddsub.pdb
+D:\Rashi\Choiseforaddsub\Choiseforaddsub\obj\Debug\netcoreapp3.1\Choiseforaddsub.csprojAssemblyReference.cache
+D:\Rashi\Choiseforaddsub\Choiseforaddsub\obj\Debug\netcoreapp3.1\Choiseforaddsub.AssemblyInfoInputs.cache
+D:\Rashi\Choiseforaddsub\Choiseforaddsub\obj\Debug\netcoreapp3.1\Choiseforaddsub.AssemblyInfo.cs
+D:\Rashi\Choiseforaddsub\Choiseforaddsub\obj\Debug\netcoreapp3.1\Choiseforaddsub.dll
+D:\Rashi\Choiseforaddsub\Choiseforaddsub\obj\Debug\netcoreapp3.1\Choiseforaddsub.pdb
