@@ -1,0 +1,11 @@
+D:\Rashi\Swapnum24\Swapnum24\bin\Debug\netcoreapp3.1\Swapnum24.exe
+D:\Rashi\Swapnum24\Swapnum24\bin\Debug\netcoreapp3.1\Swapnum24.deps.json
+D:\Rashi\Swapnum24\Swapnum24\bin\Debug\netcoreapp3.1\Swapnum24.runtimeconfig.json
+D:\Rashi\Swapnum24\Swapnum24\bin\Debug\netcoreapp3.1\Swapnum24.runtimeconfig.dev.json
+D:\Rashi\Swapnum24\Swapnum24\bin\Debug\netcoreapp3.1\Swapnum24.dll
+D:\Rashi\Swapnum24\Swapnum24\bin\Debug\netcoreapp3.1\Swapnum24.pdb
+D:\Rashi\Swapnum24\Swapnum24\obj\Debug\netcoreapp3.1\Swapnum24.AssemblyInfoInputs.cache
+D:\Rashi\Swapnum24\Swapnum24\obj\Debug\netcoreapp3.1\Swapnum24.AssemblyInfo.cs
+D:\Rashi\Swapnum24\Swapnum24\obj\Debug\netcoreapp3.1\Swapnum24.dll
+D:\Rashi\Swapnum24\Swapnum24\obj\Debug\netcoreapp3.1\Swapnum24.pdb
+D:\Rashi\Swapnum24\Swapnum24\obj\Debug\netcoreapp3.1\Swapnum24.csprojAssemblyReference.cache
