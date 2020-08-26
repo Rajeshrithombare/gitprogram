@@ -1,0 +1,11 @@
+D:\Rashi\Print10number\Print10number\bin\Debug\netcoreapp3.1\Print10number.exe
+D:\Rashi\Print10number\Print10number\bin\Debug\netcoreapp3.1\Print10number.deps.json
+D:\Rashi\Print10number\Print10number\bin\Debug\netcoreapp3.1\Print10number.runtimeconfig.json
+D:\Rashi\Print10number\Print10number\bin\Debug\netcoreapp3.1\Print10number.runtimeconfig.dev.json
+D:\Rashi\Print10number\Print10number\bin\Debug\netcoreapp3.1\Print10number.dll
+D:\Rashi\Print10number\Print10number\bin\Debug\netcoreapp3.1\Print10number.pdb
+D:\Rashi\Print10number\Print10number\obj\Debug\netcoreapp3.1\Print10number.csprojAssemblyReference.cache
+D:\Rashi\Print10number\Print10number\obj\Debug\netcoreapp3.1\Print10number.AssemblyInfoInputs.cache
+D:\Rashi\Print10number\Print10number\obj\Debug\netcoreapp3.1\Print10number.AssemblyInfo.cs
+D:\Rashi\Print10number\Print10number\obj\Debug\netcoreapp3.1\Print10number.dll
+D:\Rashi\Print10number\Print10number\obj\Debug\netcoreapp3.1\Print10number.pdb
