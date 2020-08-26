@@ -1,0 +1,10 @@
+D:\Rashi\numdivby4ornot\numdivby4ornot\bin\Debug\netcoreapp3.1\numdivby4ornot.exe
+D:\Rashi\numdivby4ornot\numdivby4ornot\bin\Debug\netcoreapp3.1\numdivby4ornot.deps.json
+D:\Rashi\numdivby4ornot\numdivby4ornot\bin\Debug\netcoreapp3.1\numdivby4ornot.runtimeconfig.json
+D:\Rashi\numdivby4ornot\numdivby4ornot\bin\Debug\netcoreapp3.1\numdivby4ornot.runtimeconfig.dev.json
+D:\Rashi\numdivby4ornot\numdivby4ornot\bin\Debug\netcoreapp3.1\numdivby4ornot.dll
+D:\Rashi\numdivby4ornot\numdivby4ornot\bin\Debug\netcoreapp3.1\numdivby4ornot.pdb
+D:\Rashi\numdivby4ornot\numdivby4ornot\obj\Debug\netcoreapp3.1\numdivby4ornot.AssemblyInfoInputs.cache
+D:\Rashi\numdivby4ornot\numdivby4ornot\obj\Debug\netcoreapp3.1\numdivby4ornot.AssemblyInfo.cs
+D:\Rashi\numdivby4ornot\numdivby4ornot\obj\Debug\netcoreapp3.1\numdivby4ornot.dll
+D:\Rashi\numdivby4ornot\numdivby4ornot\obj\Debug\netcoreapp3.1\numdivby4ornot.pdb
