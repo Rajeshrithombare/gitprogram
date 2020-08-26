@@ -1,0 +1,11 @@
+D:\Rashi\StaticObject\StaticObject\bin\Debug\netcoreapp3.1\StaticObject.exe
+D:\Rashi\StaticObject\StaticObject\bin\Debug\netcoreapp3.1\StaticObject.deps.json
+D:\Rashi\StaticObject\StaticObject\bin\Debug\netcoreapp3.1\StaticObject.runtimeconfig.json
+D:\Rashi\StaticObject\StaticObject\bin\Debug\netcoreapp3.1\StaticObject.runtimeconfig.dev.json
+D:\Rashi\StaticObject\StaticObject\bin\Debug\netcoreapp3.1\StaticObject.dll
+D:\Rashi\StaticObject\StaticObject\bin\Debug\netcoreapp3.1\StaticObject.pdb
+D:\Rashi\StaticObject\StaticObject\obj\Debug\netcoreapp3.1\StaticObject.csprojAssemblyReference.cache
+D:\Rashi\StaticObject\StaticObject\obj\Debug\netcoreapp3.1\StaticObject.AssemblyInfoInputs.cache
+D:\Rashi\StaticObject\StaticObject\obj\Debug\netcoreapp3.1\StaticObject.AssemblyInfo.cs
+D:\Rashi\StaticObject\StaticObject\obj\Debug\netcoreapp3.1\StaticObject.dll
+D:\Rashi\StaticObject\StaticObject\obj\Debug\netcoreapp3.1\StaticObject.pdb
