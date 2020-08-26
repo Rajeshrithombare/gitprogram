@@ -1,0 +1,11 @@
+D:\Rashi\RuntimePolymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.1\RuntimePolymorphism.exe
+D:\Rashi\RuntimePolymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.1\RuntimePolymorphism.deps.json
+D:\Rashi\RuntimePolymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.1\RuntimePolymorphism.runtimeconfig.json
+D:\Rashi\RuntimePolymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.1\RuntimePolymorphism.runtimeconfig.dev.json
+D:\Rashi\RuntimePolymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.1\RuntimePolymorphism.dll
+D:\Rashi\RuntimePolymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.1\RuntimePolymorphism.pdb
+D:\Rashi\RuntimePolymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.1\RuntimePolymorphism.csprojAssemblyReference.cache
+D:\Rashi\RuntimePolymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.1\RuntimePolymorphism.AssemblyInfoInputs.cache
+D:\Rashi\RuntimePolymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.1\RuntimePolymorphism.AssemblyInfo.cs
+D:\Rashi\RuntimePolymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.1\RuntimePolymorphism.dll
+D:\Rashi\RuntimePolymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.1\RuntimePolymorphism.pdb
