@@ -1,0 +1,11 @@
+D:\Rashi\call_by_value\call_by_value\bin\Debug\netcoreapp3.1\call_by_value.exe
+D:\Rashi\call_by_value\call_by_value\bin\Debug\netcoreapp3.1\call_by_value.deps.json
+D:\Rashi\call_by_value\call_by_value\bin\Debug\netcoreapp3.1\call_by_value.runtimeconfig.json
+D:\Rashi\call_by_value\call_by_value\bin\Debug\netcoreapp3.1\call_by_value.runtimeconfig.dev.json
+D:\Rashi\call_by_value\call_by_value\bin\Debug\netcoreapp3.1\call_by_value.dll
+D:\Rashi\call_by_value\call_by_value\bin\Debug\netcoreapp3.1\call_by_value.pdb
+D:\Rashi\call_by_value\call_by_value\obj\Debug\netcoreapp3.1\call_by_value.csprojAssemblyReference.cache
+D:\Rashi\call_by_value\call_by_value\obj\Debug\netcoreapp3.1\call_by_value.AssemblyInfoInputs.cache
+D:\Rashi\call_by_value\call_by_value\obj\Debug\netcoreapp3.1\call_by_value.AssemblyInfo.cs
+D:\Rashi\call_by_value\call_by_value\obj\Debug\netcoreapp3.1\call_by_value.dll
+D:\Rashi\call_by_value\call_by_value\obj\Debug\netcoreapp3.1\call_by_value.pdb
