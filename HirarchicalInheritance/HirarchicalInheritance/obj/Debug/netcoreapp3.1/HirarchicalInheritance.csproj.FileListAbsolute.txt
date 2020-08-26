@@ -1,0 +1,11 @@
+D:\Rashi\HirarchicalInheritance\HirarchicalInheritance\bin\Debug\netcoreapp3.1\HirarchicalInheritance.exe
+D:\Rashi\HirarchicalInheritance\HirarchicalInheritance\bin\Debug\netcoreapp3.1\HirarchicalInheritance.deps.json
+D:\Rashi\HirarchicalInheritance\HirarchicalInheritance\bin\Debug\netcoreapp3.1\HirarchicalInheritance.runtimeconfig.json
+D:\Rashi\HirarchicalInheritance\HirarchicalInheritance\bin\Debug\netcoreapp3.1\HirarchicalInheritance.runtimeconfig.dev.json
+D:\Rashi\HirarchicalInheritance\HirarchicalInheritance\bin\Debug\netcoreapp3.1\HirarchicalInheritance.dll
+D:\Rashi\HirarchicalInheritance\HirarchicalInheritance\bin\Debug\netcoreapp3.1\HirarchicalInheritance.pdb
+D:\Rashi\HirarchicalInheritance\HirarchicalInheritance\obj\Debug\netcoreapp3.1\HirarchicalInheritance.csprojAssemblyReference.cache
+D:\Rashi\HirarchicalInheritance\HirarchicalInheritance\obj\Debug\netcoreapp3.1\HirarchicalInheritance.AssemblyInfoInputs.cache
+D:\Rashi\HirarchicalInheritance\HirarchicalInheritance\obj\Debug\netcoreapp3.1\HirarchicalInheritance.AssemblyInfo.cs
+D:\Rashi\HirarchicalInheritance\HirarchicalInheritance\obj\Debug\netcoreapp3.1\HirarchicalInheritance.dll
+D:\Rashi\HirarchicalInheritance\HirarchicalInheritance\obj\Debug\netcoreapp3.1\HirarchicalInheritance.pdb
