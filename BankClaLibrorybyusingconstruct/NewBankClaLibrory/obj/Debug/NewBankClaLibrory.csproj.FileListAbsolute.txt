@@ -1,0 +1,5 @@
+D:\Rashi\NewBankClaLibrory\NewBankClaLibrory\bin\Debug\NewBankClaLibrory.dll
+D:\Rashi\NewBankClaLibrory\NewBankClaLibrory\bin\Debug\NewBankClaLibrory.pdb
+D:\Rashi\NewBankClaLibrory\NewBankClaLibrory\obj\Debug\NewBankClaLibrory.dll
+D:\Rashi\NewBankClaLibrory\NewBankClaLibrory\obj\Debug\NewBankClaLibrory.pdb
+D:\Rashi\NewBankClaLibrory\NewBankClaLibrory\obj\Debug\NewBankClaLibrory.csprojAssemblyReference.cache
