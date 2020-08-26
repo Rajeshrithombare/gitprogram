@@ -1,0 +1,10 @@
+D:\Rashi\enternumforShowday\enternumforShowday\bin\Debug\netcoreapp3.1\enternumforShowday.exe
+D:\Rashi\enternumforShowday\enternumforShowday\bin\Debug\netcoreapp3.1\enternumforShowday.deps.json
+D:\Rashi\enternumforShowday\enternumforShowday\bin\Debug\netcoreapp3.1\enternumforShowday.runtimeconfig.json
+D:\Rashi\enternumforShowday\enternumforShowday\bin\Debug\netcoreapp3.1\enternumforShowday.runtimeconfig.dev.json
+D:\Rashi\enternumforShowday\enternumforShowday\bin\Debug\netcoreapp3.1\enternumforShowday.dll
+D:\Rashi\enternumforShowday\enternumforShowday\bin\Debug\netcoreapp3.1\enternumforShowday.pdb
+D:\Rashi\enternumforShowday\enternumforShowday\obj\Debug\netcoreapp3.1\enternumforShowday.AssemblyInfoInputs.cache
+D:\Rashi\enternumforShowday\enternumforShowday\obj\Debug\netcoreapp3.1\enternumforShowday.AssemblyInfo.cs
+D:\Rashi\enternumforShowday\enternumforShowday\obj\Debug\netcoreapp3.1\enternumforShowday.dll
+D:\Rashi\enternumforShowday\enternumforShowday\obj\Debug\netcoreapp3.1\enternumforShowday.pdb
