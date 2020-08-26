@@ -1,0 +1,13 @@
+C:\Rashi\DuplicateString\DuplicateString\bin\Debug\netcoreapp3.1\DuplicateString.exe
+C:\Rashi\DuplicateString\DuplicateString\bin\Debug\netcoreapp3.1\DuplicateString.deps.json
+C:\Rashi\DuplicateString\DuplicateString\bin\Debug\netcoreapp3.1\DuplicateString.runtimeconfig.json
+C:\Rashi\DuplicateString\DuplicateString\bin\Debug\netcoreapp3.1\DuplicateString.runtimeconfig.dev.json
+C:\Rashi\DuplicateString\DuplicateString\bin\Debug\netcoreapp3.1\DuplicateString.dll
+C:\Rashi\DuplicateString\DuplicateString\bin\Debug\netcoreapp3.1\DuplicateString.pdb
+C:\Rashi\DuplicateString\DuplicateString\obj\Debug\netcoreapp3.1\DuplicateString.csprojAssemblyReference.cache
+C:\Rashi\DuplicateString\DuplicateString\obj\Debug\netcoreapp3.1\DuplicateString.csproj.CoreCompileInputs.cache
+C:\Rashi\DuplicateString\DuplicateString\obj\Debug\netcoreapp3.1\DuplicateString.AssemblyInfoInputs.cache
+C:\Rashi\DuplicateString\DuplicateString\obj\Debug\netcoreapp3.1\DuplicateString.AssemblyInfo.cs
+C:\Rashi\DuplicateString\DuplicateString\obj\Debug\netcoreapp3.1\DuplicateString.dll
+C:\Rashi\DuplicateString\DuplicateString\obj\Debug\netcoreapp3.1\DuplicateString.pdb
+C:\Rashi\DuplicateString\DuplicateString\obj\Debug\netcoreapp3.1\DuplicateString.genruntimeconfig.cache
