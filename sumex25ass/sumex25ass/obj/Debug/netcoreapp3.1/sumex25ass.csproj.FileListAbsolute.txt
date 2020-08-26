@@ -1,0 +1,11 @@
+D:\Rashi\sumex25ass\sumex25ass\bin\Debug\netcoreapp3.1\sumex25ass.exe
+D:\Rashi\sumex25ass\sumex25ass\bin\Debug\netcoreapp3.1\sumex25ass.deps.json
+D:\Rashi\sumex25ass\sumex25ass\bin\Debug\netcoreapp3.1\sumex25ass.runtimeconfig.json
+D:\Rashi\sumex25ass\sumex25ass\bin\Debug\netcoreapp3.1\sumex25ass.runtimeconfig.dev.json
+D:\Rashi\sumex25ass\sumex25ass\bin\Debug\netcoreapp3.1\sumex25ass.dll
+D:\Rashi\sumex25ass\sumex25ass\bin\Debug\netcoreapp3.1\sumex25ass.pdb
+D:\Rashi\sumex25ass\sumex25ass\obj\Debug\netcoreapp3.1\sumex25ass.csprojAssemblyReference.cache
+D:\Rashi\sumex25ass\sumex25ass\obj\Debug\netcoreapp3.1\sumex25ass.AssemblyInfoInputs.cache
+D:\Rashi\sumex25ass\sumex25ass\obj\Debug\netcoreapp3.1\sumex25ass.AssemblyInfo.cs
+D:\Rashi\sumex25ass\sumex25ass\obj\Debug\netcoreapp3.1\sumex25ass.dll
+D:\Rashi\sumex25ass\sumex25ass\obj\Debug\netcoreapp3.1\sumex25ass.pdb
