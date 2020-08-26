@@ -1,0 +1,11 @@
+D:\Rashi\AssiRoshArithmeticSeriz3_1\AssiRoshArithmeticSeriz3_1\bin\Debug\netcoreapp3.1\AssiRoshArithmeticSeriz3_1.exe
+D:\Rashi\AssiRoshArithmeticSeriz3_1\AssiRoshArithmeticSeriz3_1\bin\Debug\netcoreapp3.1\AssiRoshArithmeticSeriz3_1.deps.json
+D:\Rashi\AssiRoshArithmeticSeriz3_1\AssiRoshArithmeticSeriz3_1\bin\Debug\netcoreapp3.1\AssiRoshArithmeticSeriz3_1.runtimeconfig.json
+D:\Rashi\AssiRoshArithmeticSeriz3_1\AssiRoshArithmeticSeriz3_1\bin\Debug\netcoreapp3.1\AssiRoshArithmeticSeriz3_1.runtimeconfig.dev.json
+D:\Rashi\AssiRoshArithmeticSeriz3_1\AssiRoshArithmeticSeriz3_1\bin\Debug\netcoreapp3.1\AssiRoshArithmeticSeriz3_1.dll
+D:\Rashi\AssiRoshArithmeticSeriz3_1\AssiRoshArithmeticSeriz3_1\bin\Debug\netcoreapp3.1\AssiRoshArithmeticSeriz3_1.pdb
+D:\Rashi\AssiRoshArithmeticSeriz3_1\AssiRoshArithmeticSeriz3_1\obj\Debug\netcoreapp3.1\AssiRoshArithmeticSeriz3_1.csprojAssemblyReference.cache
+D:\Rashi\AssiRoshArithmeticSeriz3_1\AssiRoshArithmeticSeriz3_1\obj\Debug\netcoreapp3.1\AssiRoshArithmeticSeriz3_1.AssemblyInfoInputs.cache
+D:\Rashi\AssiRoshArithmeticSeriz3_1\AssiRoshArithmeticSeriz3_1\obj\Debug\netcoreapp3.1\AssiRoshArithmeticSeriz3_1.AssemblyInfo.cs
+D:\Rashi\AssiRoshArithmeticSeriz3_1\AssiRoshArithmeticSeriz3_1\obj\Debug\netcoreapp3.1\AssiRoshArithmeticSeriz3_1.dll
+D:\Rashi\AssiRoshArithmeticSeriz3_1\AssiRoshArithmeticSeriz3_1\obj\Debug\netcoreapp3.1\AssiRoshArithmeticSeriz3_1.pdb
