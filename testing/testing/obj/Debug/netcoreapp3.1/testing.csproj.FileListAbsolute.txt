@@ -1,0 +1,11 @@
+D:\Rashi\testing\testing\bin\Debug\netcoreapp3.1\testing.exe
+D:\Rashi\testing\testing\bin\Debug\netcoreapp3.1\testing.deps.json
+D:\Rashi\testing\testing\bin\Debug\netcoreapp3.1\testing.runtimeconfig.json
+D:\Rashi\testing\testing\bin\Debug\netcoreapp3.1\testing.runtimeconfig.dev.json
+D:\Rashi\testing\testing\bin\Debug\netcoreapp3.1\testing.dll
+D:\Rashi\testing\testing\bin\Debug\netcoreapp3.1\testing.pdb
+D:\Rashi\testing\testing\obj\Debug\netcoreapp3.1\testing.csprojAssemblyReference.cache
+D:\Rashi\testing\testing\obj\Debug\netcoreapp3.1\testing.AssemblyInfoInputs.cache
+D:\Rashi\testing\testing\obj\Debug\netcoreapp3.1\testing.AssemblyInfo.cs
+D:\Rashi\testing\testing\obj\Debug\netcoreapp3.1\testing.dll
+D:\Rashi\testing\testing\obj\Debug\netcoreapp3.1\testing.pdb
