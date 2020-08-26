@@ -1,0 +1,13 @@
+G:\Myprograms\Rashi\Assignment25\Assignment25\bin\Debug\netcoreapp3.1\Assignment25.exe
+G:\Myprograms\Rashi\Assignment25\Assignment25\bin\Debug\netcoreapp3.1\Assignment25.deps.json
+G:\Myprograms\Rashi\Assignment25\Assignment25\bin\Debug\netcoreapp3.1\Assignment25.runtimeconfig.json
+G:\Myprograms\Rashi\Assignment25\Assignment25\bin\Debug\netcoreapp3.1\Assignment25.runtimeconfig.dev.json
+G:\Myprograms\Rashi\Assignment25\Assignment25\bin\Debug\netcoreapp3.1\Assignment25.dll
+G:\Myprograms\Rashi\Assignment25\Assignment25\bin\Debug\netcoreapp3.1\Assignment25.pdb
+G:\Myprograms\Rashi\Assignment25\Assignment25\obj\Debug\netcoreapp3.1\Assignment25.csprojAssemblyReference.cache
+G:\Myprograms\Rashi\Assignment25\Assignment25\obj\Debug\netcoreapp3.1\Assignment25.csproj.CoreCompileInputs.cache
+G:\Myprograms\Rashi\Assignment25\Assignment25\obj\Debug\netcoreapp3.1\Assignment25.AssemblyInfoInputs.cache
+G:\Myprograms\Rashi\Assignment25\Assignment25\obj\Debug\netcoreapp3.1\Assignment25.AssemblyInfo.cs
+G:\Myprograms\Rashi\Assignment25\Assignment25\obj\Debug\netcoreapp3.1\Assignment25.dll
+G:\Myprograms\Rashi\Assignment25\Assignment25\obj\Debug\netcoreapp3.1\Assignment25.pdb
+G:\Myprograms\Rashi\Assignment25\Assignment25\obj\Debug\netcoreapp3.1\Assignment25.genruntimeconfig.cache

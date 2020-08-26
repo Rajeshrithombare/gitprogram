@@ -1,0 +1,11 @@
+D:\Rashi\AssiRosh5_2\AssiRosh5_2\bin\Debug\netcoreapp3.1\AssiRosh5_2.exe
+D:\Rashi\AssiRosh5_2\AssiRosh5_2\bin\Debug\netcoreapp3.1\AssiRosh5_2.deps.json
+D:\Rashi\AssiRosh5_2\AssiRosh5_2\bin\Debug\netcoreapp3.1\AssiRosh5_2.runtimeconfig.json
+D:\Rashi\AssiRosh5_2\AssiRosh5_2\bin\Debug\netcoreapp3.1\AssiRosh5_2.runtimeconfig.dev.json
+D:\Rashi\AssiRosh5_2\AssiRosh5_2\bin\Debug\netcoreapp3.1\AssiRosh5_2.dll
+D:\Rashi\AssiRosh5_2\AssiRosh5_2\bin\Debug\netcoreapp3.1\AssiRosh5_2.pdb
+D:\Rashi\AssiRosh5_2\AssiRosh5_2\obj\Debug\netcoreapp3.1\AssiRosh5_2.csprojAssemblyReference.cache
+D:\Rashi\AssiRosh5_2\AssiRosh5_2\obj\Debug\netcoreapp3.1\AssiRosh5_2.AssemblyInfoInputs.cache
+D:\Rashi\AssiRosh5_2\AssiRosh5_2\obj\Debug\netcoreapp3.1\AssiRosh5_2.AssemblyInfo.cs
+D:\Rashi\AssiRosh5_2\AssiRosh5_2\obj\Debug\netcoreapp3.1\AssiRosh5_2.dll
+D:\Rashi\AssiRosh5_2\AssiRosh5_2\obj\Debug\netcoreapp3.1\AssiRosh5_2.pdb

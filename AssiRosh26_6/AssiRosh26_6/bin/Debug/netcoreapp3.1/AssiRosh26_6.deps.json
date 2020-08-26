@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AssiRosh26_6/1.0.0": {
+        "runtime": {
+          "AssiRosh26_6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssiRosh26_6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

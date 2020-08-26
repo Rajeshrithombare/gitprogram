@@ -1,0 +1,11 @@
+D:\Rashi\AssiRosh26_4\AssiRosh26_4\bin\Debug\netcoreapp3.1\AssiRosh26_4.exe
+D:\Rashi\AssiRosh26_4\AssiRosh26_4\bin\Debug\netcoreapp3.1\AssiRosh26_4.deps.json
+D:\Rashi\AssiRosh26_4\AssiRosh26_4\bin\Debug\netcoreapp3.1\AssiRosh26_4.runtimeconfig.json
+D:\Rashi\AssiRosh26_4\AssiRosh26_4\bin\Debug\netcoreapp3.1\AssiRosh26_4.runtimeconfig.dev.json
+D:\Rashi\AssiRosh26_4\AssiRosh26_4\bin\Debug\netcoreapp3.1\AssiRosh26_4.dll
+D:\Rashi\AssiRosh26_4\AssiRosh26_4\bin\Debug\netcoreapp3.1\AssiRosh26_4.pdb
+D:\Rashi\AssiRosh26_4\AssiRosh26_4\obj\Debug\netcoreapp3.1\AssiRosh26_4.AssemblyInfoInputs.cache
+D:\Rashi\AssiRosh26_4\AssiRosh26_4\obj\Debug\netcoreapp3.1\AssiRosh26_4.AssemblyInfo.cs
+D:\Rashi\AssiRosh26_4\AssiRosh26_4\obj\Debug\netcoreapp3.1\AssiRosh26_4.dll
+D:\Rashi\AssiRosh26_4\AssiRosh26_4\obj\Debug\netcoreapp3.1\AssiRosh26_4.pdb
+D:\Rashi\AssiRosh26_4\AssiRosh26_4\obj\Debug\netcoreapp3.1\AssiRosh26_4.csprojAssemblyReference.cache

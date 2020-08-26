@@ -1,0 +1,11 @@
+D:\Rashi\AssiAbstract5\AssiAbstract5\bin\Debug\netcoreapp3.1\AssiAbstract5.exe
+D:\Rashi\AssiAbstract5\AssiAbstract5\bin\Debug\netcoreapp3.1\AssiAbstract5.deps.json
+D:\Rashi\AssiAbstract5\AssiAbstract5\bin\Debug\netcoreapp3.1\AssiAbstract5.runtimeconfig.json
+D:\Rashi\AssiAbstract5\AssiAbstract5\bin\Debug\netcoreapp3.1\AssiAbstract5.runtimeconfig.dev.json
+D:\Rashi\AssiAbstract5\AssiAbstract5\bin\Debug\netcoreapp3.1\AssiAbstract5.dll
+D:\Rashi\AssiAbstract5\AssiAbstract5\bin\Debug\netcoreapp3.1\AssiAbstract5.pdb
+D:\Rashi\AssiAbstract5\AssiAbstract5\obj\Debug\netcoreapp3.1\AssiAbstract5.csprojAssemblyReference.cache
+D:\Rashi\AssiAbstract5\AssiAbstract5\obj\Debug\netcoreapp3.1\AssiAbstract5.AssemblyInfoInputs.cache
+D:\Rashi\AssiAbstract5\AssiAbstract5\obj\Debug\netcoreapp3.1\AssiAbstract5.AssemblyInfo.cs
+D:\Rashi\AssiAbstract5\AssiAbstract5\obj\Debug\netcoreapp3.1\AssiAbstract5.dll
+D:\Rashi\AssiAbstract5\AssiAbstract5\obj\Debug\netcoreapp3.1\AssiAbstract5.pdb

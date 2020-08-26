@@ -1,0 +1,11 @@
+D:\Rashi\AssiKha4_AreaofRectangle\AssiKha4_AreaofRectangle\bin\Debug\netcoreapp3.1\AssiKha4_AreaofRectangle.exe
+D:\Rashi\AssiKha4_AreaofRectangle\AssiKha4_AreaofRectangle\bin\Debug\netcoreapp3.1\AssiKha4_AreaofRectangle.deps.json
+D:\Rashi\AssiKha4_AreaofRectangle\AssiKha4_AreaofRectangle\bin\Debug\netcoreapp3.1\AssiKha4_AreaofRectangle.runtimeconfig.json
+D:\Rashi\AssiKha4_AreaofRectangle\AssiKha4_AreaofRectangle\bin\Debug\netcoreapp3.1\AssiKha4_AreaofRectangle.runtimeconfig.dev.json
+D:\Rashi\AssiKha4_AreaofRectangle\AssiKha4_AreaofRectangle\bin\Debug\netcoreapp3.1\AssiKha4_AreaofRectangle.dll
+D:\Rashi\AssiKha4_AreaofRectangle\AssiKha4_AreaofRectangle\bin\Debug\netcoreapp3.1\AssiKha4_AreaofRectangle.pdb
+D:\Rashi\AssiKha4_AreaofRectangle\AssiKha4_AreaofRectangle\obj\Debug\netcoreapp3.1\AssiKha4_AreaofRectangle.AssemblyInfoInputs.cache
+D:\Rashi\AssiKha4_AreaofRectangle\AssiKha4_AreaofRectangle\obj\Debug\netcoreapp3.1\AssiKha4_AreaofRectangle.AssemblyInfo.cs
+D:\Rashi\AssiKha4_AreaofRectangle\AssiKha4_AreaofRectangle\obj\Debug\netcoreapp3.1\AssiKha4_AreaofRectangle.dll
+D:\Rashi\AssiKha4_AreaofRectangle\AssiKha4_AreaofRectangle\obj\Debug\netcoreapp3.1\AssiKha4_AreaofRectangle.pdb
+D:\Rashi\AssiKha4_AreaofRectangle\AssiKha4_AreaofRectangle\obj\Debug\netcoreapp3.1\AssiKha4_AreaofRectangle.csprojAssemblyReference.cache

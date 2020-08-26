@@ -1,0 +1,11 @@
+D:\Rashi\array_method\array_method\bin\Debug\netcoreapp3.1\array_method.exe
+D:\Rashi\array_method\array_method\bin\Debug\netcoreapp3.1\array_method.deps.json
+D:\Rashi\array_method\array_method\bin\Debug\netcoreapp3.1\array_method.runtimeconfig.json
+D:\Rashi\array_method\array_method\bin\Debug\netcoreapp3.1\array_method.runtimeconfig.dev.json
+D:\Rashi\array_method\array_method\bin\Debug\netcoreapp3.1\array_method.dll
+D:\Rashi\array_method\array_method\bin\Debug\netcoreapp3.1\array_method.pdb
+D:\Rashi\array_method\array_method\obj\Debug\netcoreapp3.1\array_method.csprojAssemblyReference.cache
+D:\Rashi\array_method\array_method\obj\Debug\netcoreapp3.1\array_method.AssemblyInfoInputs.cache
+D:\Rashi\array_method\array_method\obj\Debug\netcoreapp3.1\array_method.AssemblyInfo.cs
+D:\Rashi\array_method\array_method\obj\Debug\netcoreapp3.1\array_method.dll
+D:\Rashi\array_method\array_method\obj\Debug\netcoreapp3.1\array_method.pdb

@@ -1,0 +1,10 @@
+D:\Rashi\AssiKha4_5Arearecta\AssiKha4_5Arearecta\bin\Debug\netcoreapp3.1\AssiKha4_5Arearecta.exe
+D:\Rashi\AssiKha4_5Arearecta\AssiKha4_5Arearecta\bin\Debug\netcoreapp3.1\AssiKha4_5Arearecta.deps.json
+D:\Rashi\AssiKha4_5Arearecta\AssiKha4_5Arearecta\bin\Debug\netcoreapp3.1\AssiKha4_5Arearecta.runtimeconfig.json
+D:\Rashi\AssiKha4_5Arearecta\AssiKha4_5Arearecta\bin\Debug\netcoreapp3.1\AssiKha4_5Arearecta.runtimeconfig.dev.json
+D:\Rashi\AssiKha4_5Arearecta\AssiKha4_5Arearecta\bin\Debug\netcoreapp3.1\AssiKha4_5Arearecta.dll
+D:\Rashi\AssiKha4_5Arearecta\AssiKha4_5Arearecta\bin\Debug\netcoreapp3.1\AssiKha4_5Arearecta.pdb
+D:\Rashi\AssiKha4_5Arearecta\AssiKha4_5Arearecta\obj\Debug\netcoreapp3.1\AssiKha4_5Arearecta.AssemblyInfoInputs.cache
+D:\Rashi\AssiKha4_5Arearecta\AssiKha4_5Arearecta\obj\Debug\netcoreapp3.1\AssiKha4_5Arearecta.AssemblyInfo.cs
+D:\Rashi\AssiKha4_5Arearecta\AssiKha4_5Arearecta\obj\Debug\netcoreapp3.1\AssiKha4_5Arearecta.dll
+D:\Rashi\AssiKha4_5Arearecta\AssiKha4_5Arearecta\obj\Debug\netcoreapp3.1\AssiKha4_5Arearecta.pdb

@@ -1,0 +1,11 @@
+D:\Rashi\AssiAbstract4\AssiAbstract4\bin\Debug\netcoreapp3.1\AssiAbstract4.exe
+D:\Rashi\AssiAbstract4\AssiAbstract4\bin\Debug\netcoreapp3.1\AssiAbstract4.deps.json
+D:\Rashi\AssiAbstract4\AssiAbstract4\bin\Debug\netcoreapp3.1\AssiAbstract4.runtimeconfig.json
+D:\Rashi\AssiAbstract4\AssiAbstract4\bin\Debug\netcoreapp3.1\AssiAbstract4.runtimeconfig.dev.json
+D:\Rashi\AssiAbstract4\AssiAbstract4\bin\Debug\netcoreapp3.1\AssiAbstract4.dll
+D:\Rashi\AssiAbstract4\AssiAbstract4\bin\Debug\netcoreapp3.1\AssiAbstract4.pdb
+D:\Rashi\AssiAbstract4\AssiAbstract4\obj\Debug\netcoreapp3.1\AssiAbstract4.csprojAssemblyReference.cache
+D:\Rashi\AssiAbstract4\AssiAbstract4\obj\Debug\netcoreapp3.1\AssiAbstract4.AssemblyInfoInputs.cache
+D:\Rashi\AssiAbstract4\AssiAbstract4\obj\Debug\netcoreapp3.1\AssiAbstract4.AssemblyInfo.cs
+D:\Rashi\AssiAbstract4\AssiAbstract4\obj\Debug\netcoreapp3.1\AssiAbstract4.dll
+D:\Rashi\AssiAbstract4\AssiAbstract4\obj\Debug\netcoreapp3.1\AssiAbstract4.pdb

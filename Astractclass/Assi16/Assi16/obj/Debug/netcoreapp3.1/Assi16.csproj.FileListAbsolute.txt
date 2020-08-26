@@ -1,0 +1,11 @@
+D:\Rashi\Assi16\Assi16\bin\Debug\netcoreapp3.1\Assi16.exe
+D:\Rashi\Assi16\Assi16\bin\Debug\netcoreapp3.1\Assi16.deps.json
+D:\Rashi\Assi16\Assi16\bin\Debug\netcoreapp3.1\Assi16.runtimeconfig.json
+D:\Rashi\Assi16\Assi16\bin\Debug\netcoreapp3.1\Assi16.runtimeconfig.dev.json
+D:\Rashi\Assi16\Assi16\bin\Debug\netcoreapp3.1\Assi16.dll
+D:\Rashi\Assi16\Assi16\bin\Debug\netcoreapp3.1\Assi16.pdb
+D:\Rashi\Assi16\Assi16\obj\Debug\netcoreapp3.1\Assi16.csprojAssemblyReference.cache
+D:\Rashi\Assi16\Assi16\obj\Debug\netcoreapp3.1\Assi16.AssemblyInfoInputs.cache
+D:\Rashi\Assi16\Assi16\obj\Debug\netcoreapp3.1\Assi16.AssemblyInfo.cs
+D:\Rashi\Assi16\Assi16\obj\Debug\netcoreapp3.1\Assi16.dll
+D:\Rashi\Assi16\Assi16\obj\Debug\netcoreapp3.1\Assi16.pdb

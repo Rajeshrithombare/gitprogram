@@ -1,0 +1,10 @@
+D:\Rashi\AssiRosh27_3\AssiRosh27_3\bin\Debug\netcoreapp3.1\AssiRosh27_3.exe
+D:\Rashi\AssiRosh27_3\AssiRosh27_3\bin\Debug\netcoreapp3.1\AssiRosh27_3.deps.json
+D:\Rashi\AssiRosh27_3\AssiRosh27_3\bin\Debug\netcoreapp3.1\AssiRosh27_3.runtimeconfig.json
+D:\Rashi\AssiRosh27_3\AssiRosh27_3\bin\Debug\netcoreapp3.1\AssiRosh27_3.runtimeconfig.dev.json
+D:\Rashi\AssiRosh27_3\AssiRosh27_3\bin\Debug\netcoreapp3.1\AssiRosh27_3.dll
+D:\Rashi\AssiRosh27_3\AssiRosh27_3\bin\Debug\netcoreapp3.1\AssiRosh27_3.pdb
+D:\Rashi\AssiRosh27_3\AssiRosh27_3\obj\Debug\netcoreapp3.1\AssiRosh27_3.AssemblyInfoInputs.cache
+D:\Rashi\AssiRosh27_3\AssiRosh27_3\obj\Debug\netcoreapp3.1\AssiRosh27_3.AssemblyInfo.cs
+D:\Rashi\AssiRosh27_3\AssiRosh27_3\obj\Debug\netcoreapp3.1\AssiRosh27_3.dll
+D:\Rashi\AssiRosh27_3\AssiRosh27_3\obj\Debug\netcoreapp3.1\AssiRosh27_3.pdb

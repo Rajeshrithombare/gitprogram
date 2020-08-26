@@ -1,0 +1,11 @@
+D:\Rashi\AssiRosh25_3\AssiRosh25_3\bin\Debug\netcoreapp3.1\AssiRosh25_3.exe
+D:\Rashi\AssiRosh25_3\AssiRosh25_3\bin\Debug\netcoreapp3.1\AssiRosh25_3.deps.json
+D:\Rashi\AssiRosh25_3\AssiRosh25_3\bin\Debug\netcoreapp3.1\AssiRosh25_3.runtimeconfig.json
+D:\Rashi\AssiRosh25_3\AssiRosh25_3\bin\Debug\netcoreapp3.1\AssiRosh25_3.runtimeconfig.dev.json
+D:\Rashi\AssiRosh25_3\AssiRosh25_3\bin\Debug\netcoreapp3.1\AssiRosh25_3.dll
+D:\Rashi\AssiRosh25_3\AssiRosh25_3\bin\Debug\netcoreapp3.1\AssiRosh25_3.pdb
+D:\Rashi\AssiRosh25_3\AssiRosh25_3\obj\Debug\netcoreapp3.1\AssiRosh25_3.csprojAssemblyReference.cache
+D:\Rashi\AssiRosh25_3\AssiRosh25_3\obj\Debug\netcoreapp3.1\AssiRosh25_3.AssemblyInfoInputs.cache
+D:\Rashi\AssiRosh25_3\AssiRosh25_3\obj\Debug\netcoreapp3.1\AssiRosh25_3.AssemblyInfo.cs
+D:\Rashi\AssiRosh25_3\AssiRosh25_3\obj\Debug\netcoreapp3.1\AssiRosh25_3.dll
+D:\Rashi\AssiRosh25_3\AssiRosh25_3\obj\Debug\netcoreapp3.1\AssiRosh25_3.pdb

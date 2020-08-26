@@ -1,0 +1,10 @@
+D:\Rashi\AssiRosh5_3Bitwise\AssiRosh5_3Bitwise\bin\Debug\netcoreapp3.1\AssiRosh5_3Bitwise.exe
+D:\Rashi\AssiRosh5_3Bitwise\AssiRosh5_3Bitwise\bin\Debug\netcoreapp3.1\AssiRosh5_3Bitwise.deps.json
+D:\Rashi\AssiRosh5_3Bitwise\AssiRosh5_3Bitwise\bin\Debug\netcoreapp3.1\AssiRosh5_3Bitwise.runtimeconfig.json
+D:\Rashi\AssiRosh5_3Bitwise\AssiRosh5_3Bitwise\bin\Debug\netcoreapp3.1\AssiRosh5_3Bitwise.runtimeconfig.dev.json
+D:\Rashi\AssiRosh5_3Bitwise\AssiRosh5_3Bitwise\bin\Debug\netcoreapp3.1\AssiRosh5_3Bitwise.dll
+D:\Rashi\AssiRosh5_3Bitwise\AssiRosh5_3Bitwise\bin\Debug\netcoreapp3.1\AssiRosh5_3Bitwise.pdb
+D:\Rashi\AssiRosh5_3Bitwise\AssiRosh5_3Bitwise\obj\Debug\netcoreapp3.1\AssiRosh5_3Bitwise.AssemblyInfoInputs.cache
+D:\Rashi\AssiRosh5_3Bitwise\AssiRosh5_3Bitwise\obj\Debug\netcoreapp3.1\AssiRosh5_3Bitwise.AssemblyInfo.cs
+D:\Rashi\AssiRosh5_3Bitwise\AssiRosh5_3Bitwise\obj\Debug\netcoreapp3.1\AssiRosh5_3Bitwise.dll
+D:\Rashi\AssiRosh5_3Bitwise\AssiRosh5_3Bitwise\obj\Debug\netcoreapp3.1\AssiRosh5_3Bitwise.pdb

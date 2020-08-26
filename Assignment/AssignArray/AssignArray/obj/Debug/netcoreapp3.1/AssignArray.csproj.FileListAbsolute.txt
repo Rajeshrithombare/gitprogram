@@ -1,0 +1,13 @@
+C:\Rashi\AssignArray\AssignArray\bin\Debug\netcoreapp3.1\AssignArray.exe
+C:\Rashi\AssignArray\AssignArray\bin\Debug\netcoreapp3.1\AssignArray.deps.json
+C:\Rashi\AssignArray\AssignArray\bin\Debug\netcoreapp3.1\AssignArray.runtimeconfig.json
+C:\Rashi\AssignArray\AssignArray\bin\Debug\netcoreapp3.1\AssignArray.runtimeconfig.dev.json
+C:\Rashi\AssignArray\AssignArray\bin\Debug\netcoreapp3.1\AssignArray.dll
+C:\Rashi\AssignArray\AssignArray\bin\Debug\netcoreapp3.1\AssignArray.pdb
+C:\Rashi\AssignArray\AssignArray\obj\Debug\netcoreapp3.1\AssignArray.csprojAssemblyReference.cache
+C:\Rashi\AssignArray\AssignArray\obj\Debug\netcoreapp3.1\AssignArray.csproj.CoreCompileInputs.cache
+C:\Rashi\AssignArray\AssignArray\obj\Debug\netcoreapp3.1\AssignArray.AssemblyInfoInputs.cache
+C:\Rashi\AssignArray\AssignArray\obj\Debug\netcoreapp3.1\AssignArray.AssemblyInfo.cs
+C:\Rashi\AssignArray\AssignArray\obj\Debug\netcoreapp3.1\AssignArray.dll
+C:\Rashi\AssignArray\AssignArray\obj\Debug\netcoreapp3.1\AssignArray.pdb
+C:\Rashi\AssignArray\AssignArray\obj\Debug\netcoreapp3.1\AssignArray.genruntimeconfig.cache

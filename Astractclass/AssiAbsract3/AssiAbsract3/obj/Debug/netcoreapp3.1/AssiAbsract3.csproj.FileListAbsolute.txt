@@ -1,0 +1,11 @@
+D:\Rashi\AssiAbsract3\AssiAbsract3\bin\Debug\netcoreapp3.1\AssiAbsract3.exe
+D:\Rashi\AssiAbsract3\AssiAbsract3\bin\Debug\netcoreapp3.1\AssiAbsract3.deps.json
+D:\Rashi\AssiAbsract3\AssiAbsract3\bin\Debug\netcoreapp3.1\AssiAbsract3.runtimeconfig.json
+D:\Rashi\AssiAbsract3\AssiAbsract3\bin\Debug\netcoreapp3.1\AssiAbsract3.runtimeconfig.dev.json
+D:\Rashi\AssiAbsract3\AssiAbsract3\bin\Debug\netcoreapp3.1\AssiAbsract3.dll
+D:\Rashi\AssiAbsract3\AssiAbsract3\bin\Debug\netcoreapp3.1\AssiAbsract3.pdb
+D:\Rashi\AssiAbsract3\AssiAbsract3\obj\Debug\netcoreapp3.1\AssiAbsract3.csprojAssemblyReference.cache
+D:\Rashi\AssiAbsract3\AssiAbsract3\obj\Debug\netcoreapp3.1\AssiAbsract3.AssemblyInfoInputs.cache
+D:\Rashi\AssiAbsract3\AssiAbsract3\obj\Debug\netcoreapp3.1\AssiAbsract3.AssemblyInfo.cs
+D:\Rashi\AssiAbsract3\AssiAbsract3\obj\Debug\netcoreapp3.1\AssiAbsract3.dll
+D:\Rashi\AssiAbsract3\AssiAbsract3\obj\Debug\netcoreapp3.1\AssiAbsract3.pdb
