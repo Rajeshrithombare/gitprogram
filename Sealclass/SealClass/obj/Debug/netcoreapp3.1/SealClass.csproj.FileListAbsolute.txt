@@ -1,0 +1,11 @@
+D:\Rashi\SealClass\SealClass\bin\Debug\netcoreapp3.1\SealClass.exe
+D:\Rashi\SealClass\SealClass\bin\Debug\netcoreapp3.1\SealClass.deps.json
+D:\Rashi\SealClass\SealClass\bin\Debug\netcoreapp3.1\SealClass.runtimeconfig.json
+D:\Rashi\SealClass\SealClass\bin\Debug\netcoreapp3.1\SealClass.runtimeconfig.dev.json
+D:\Rashi\SealClass\SealClass\bin\Debug\netcoreapp3.1\SealClass.dll
+D:\Rashi\SealClass\SealClass\bin\Debug\netcoreapp3.1\SealClass.pdb
+D:\Rashi\SealClass\SealClass\obj\Debug\netcoreapp3.1\SealClass.csprojAssemblyReference.cache
+D:\Rashi\SealClass\SealClass\obj\Debug\netcoreapp3.1\SealClass.AssemblyInfoInputs.cache
+D:\Rashi\SealClass\SealClass\obj\Debug\netcoreapp3.1\SealClass.AssemblyInfo.cs
+D:\Rashi\SealClass\SealClass\obj\Debug\netcoreapp3.1\SealClass.dll
+D:\Rashi\SealClass\SealClass\obj\Debug\netcoreapp3.1\SealClass.pdb
