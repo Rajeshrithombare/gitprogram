@@ -1,0 +1,11 @@
+D:\Rashi\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.exe
+D:\Rashi\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.deps.json
+D:\Rashi\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.runtimeconfig.json
+D:\Rashi\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.runtimeconfig.dev.json
+D:\Rashi\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.dll
+D:\Rashi\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.pdb
+D:\Rashi\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.csprojAssemblyReference.cache
+D:\Rashi\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.AssemblyInfoInputs.cache
+D:\Rashi\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.AssemblyInfo.cs
+D:\Rashi\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.dll
+D:\Rashi\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.pdb
