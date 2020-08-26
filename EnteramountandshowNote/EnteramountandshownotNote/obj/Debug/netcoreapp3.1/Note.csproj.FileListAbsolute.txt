@@ -1,0 +1,13 @@
+C:\Rashi\Note\Note\bin\Debug\netcoreapp3.1\Note.exe
+C:\Rashi\Note\Note\bin\Debug\netcoreapp3.1\Note.deps.json
+C:\Rashi\Note\Note\bin\Debug\netcoreapp3.1\Note.runtimeconfig.json
+C:\Rashi\Note\Note\bin\Debug\netcoreapp3.1\Note.runtimeconfig.dev.json
+C:\Rashi\Note\Note\bin\Debug\netcoreapp3.1\Note.dll
+C:\Rashi\Note\Note\bin\Debug\netcoreapp3.1\Note.pdb
+C:\Rashi\Note\Note\obj\Debug\netcoreapp3.1\Note.csproj.CoreCompileInputs.cache
+C:\Rashi\Note\Note\obj\Debug\netcoreapp3.1\Note.AssemblyInfoInputs.cache
+C:\Rashi\Note\Note\obj\Debug\netcoreapp3.1\Note.AssemblyInfo.cs
+C:\Rashi\Note\Note\obj\Debug\netcoreapp3.1\Note.dll
+C:\Rashi\Note\Note\obj\Debug\netcoreapp3.1\Note.pdb
+C:\Rashi\Note\Note\obj\Debug\netcoreapp3.1\Note.genruntimeconfig.cache
+C:\Rashi\Note\Note\obj\Debug\netcoreapp3.1\Note.csprojAssemblyReference.cache
