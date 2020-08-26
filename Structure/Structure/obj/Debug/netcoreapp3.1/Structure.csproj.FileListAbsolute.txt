@@ -1,0 +1,11 @@
+D:\Rashi\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.exe
+D:\Rashi\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.deps.json
+D:\Rashi\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.runtimeconfig.json
+D:\Rashi\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.runtimeconfig.dev.json
+D:\Rashi\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.dll
+D:\Rashi\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.pdb
+D:\Rashi\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.csprojAssemblyReference.cache
+D:\Rashi\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.AssemblyInfoInputs.cache
+D:\Rashi\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.AssemblyInfo.cs
+D:\Rashi\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.dll
+D:\Rashi\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.pdb
