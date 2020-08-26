@@ -1,0 +1,11 @@
+D:\Rashi\power\power\bin\Debug\netcoreapp3.1\power.exe
+D:\Rashi\power\power\bin\Debug\netcoreapp3.1\power.deps.json
+D:\Rashi\power\power\bin\Debug\netcoreapp3.1\power.runtimeconfig.json
+D:\Rashi\power\power\bin\Debug\netcoreapp3.1\power.runtimeconfig.dev.json
+D:\Rashi\power\power\bin\Debug\netcoreapp3.1\power.dll
+D:\Rashi\power\power\bin\Debug\netcoreapp3.1\power.pdb
+D:\Rashi\power\power\obj\Debug\netcoreapp3.1\power.AssemblyInfoInputs.cache
+D:\Rashi\power\power\obj\Debug\netcoreapp3.1\power.AssemblyInfo.cs
+D:\Rashi\power\power\obj\Debug\netcoreapp3.1\power.dll
+D:\Rashi\power\power\obj\Debug\netcoreapp3.1\power.pdb
+D:\Rashi\power\power\obj\Debug\netcoreapp3.1\power.csprojAssemblyReference.cache
