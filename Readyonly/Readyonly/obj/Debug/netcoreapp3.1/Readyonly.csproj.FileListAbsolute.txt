@@ -1,0 +1,11 @@
+D:\Rashi\Readyonly\Readyonly\bin\Debug\netcoreapp3.1\Readyonly.exe
+D:\Rashi\Readyonly\Readyonly\bin\Debug\netcoreapp3.1\Readyonly.deps.json
+D:\Rashi\Readyonly\Readyonly\bin\Debug\netcoreapp3.1\Readyonly.runtimeconfig.json
+D:\Rashi\Readyonly\Readyonly\bin\Debug\netcoreapp3.1\Readyonly.runtimeconfig.dev.json
+D:\Rashi\Readyonly\Readyonly\bin\Debug\netcoreapp3.1\Readyonly.dll
+D:\Rashi\Readyonly\Readyonly\bin\Debug\netcoreapp3.1\Readyonly.pdb
+D:\Rashi\Readyonly\Readyonly\obj\Debug\netcoreapp3.1\Readyonly.csprojAssemblyReference.cache
+D:\Rashi\Readyonly\Readyonly\obj\Debug\netcoreapp3.1\Readyonly.AssemblyInfoInputs.cache
+D:\Rashi\Readyonly\Readyonly\obj\Debug\netcoreapp3.1\Readyonly.AssemblyInfo.cs
+D:\Rashi\Readyonly\Readyonly\obj\Debug\netcoreapp3.1\Readyonly.dll
+D:\Rashi\Readyonly\Readyonly\obj\Debug\netcoreapp3.1\Readyonly.pdb
