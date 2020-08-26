@@ -1,0 +1,11 @@
+D:\Rashi\FunctionAssignment20\FunctionAssignment20\bin\Debug\netcoreapp3.1\FunctionAssignment20.exe
+D:\Rashi\FunctionAssignment20\FunctionAssignment20\bin\Debug\netcoreapp3.1\FunctionAssignment20.deps.json
+D:\Rashi\FunctionAssignment20\FunctionAssignment20\bin\Debug\netcoreapp3.1\FunctionAssignment20.runtimeconfig.json
+D:\Rashi\FunctionAssignment20\FunctionAssignment20\bin\Debug\netcoreapp3.1\FunctionAssignment20.runtimeconfig.dev.json
+D:\Rashi\FunctionAssignment20\FunctionAssignment20\bin\Debug\netcoreapp3.1\FunctionAssignment20.dll
+D:\Rashi\FunctionAssignment20\FunctionAssignment20\bin\Debug\netcoreapp3.1\FunctionAssignment20.pdb
+D:\Rashi\FunctionAssignment20\FunctionAssignment20\obj\Debug\netcoreapp3.1\FunctionAssignment20.csprojAssemblyReference.cache
+D:\Rashi\FunctionAssignment20\FunctionAssignment20\obj\Debug\netcoreapp3.1\FunctionAssignment20.AssemblyInfoInputs.cache
+D:\Rashi\FunctionAssignment20\FunctionAssignment20\obj\Debug\netcoreapp3.1\FunctionAssignment20.AssemblyInfo.cs
+D:\Rashi\FunctionAssignment20\FunctionAssignment20\obj\Debug\netcoreapp3.1\FunctionAssignment20.dll
+D:\Rashi\FunctionAssignment20\FunctionAssignment20\obj\Debug\netcoreapp3.1\FunctionAssignment20.pdb
