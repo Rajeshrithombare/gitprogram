@@ -1,0 +1,13 @@
+C:\Rashi\sumAssignment\sumAssignment\bin\Debug\netcoreapp3.1\sumAssignment.exe
+C:\Rashi\sumAssignment\sumAssignment\bin\Debug\netcoreapp3.1\sumAssignment.deps.json
+C:\Rashi\sumAssignment\sumAssignment\bin\Debug\netcoreapp3.1\sumAssignment.runtimeconfig.json
+C:\Rashi\sumAssignment\sumAssignment\bin\Debug\netcoreapp3.1\sumAssignment.runtimeconfig.dev.json
+C:\Rashi\sumAssignment\sumAssignment\bin\Debug\netcoreapp3.1\sumAssignment.dll
+C:\Rashi\sumAssignment\sumAssignment\bin\Debug\netcoreapp3.1\sumAssignment.pdb
+C:\Rashi\sumAssignment\sumAssignment\obj\Debug\netcoreapp3.1\sumAssignment.csprojAssemblyReference.cache
+C:\Rashi\sumAssignment\sumAssignment\obj\Debug\netcoreapp3.1\sumAssignment.csproj.CoreCompileInputs.cache
+C:\Rashi\sumAssignment\sumAssignment\obj\Debug\netcoreapp3.1\sumAssignment.AssemblyInfoInputs.cache
+C:\Rashi\sumAssignment\sumAssignment\obj\Debug\netcoreapp3.1\sumAssignment.AssemblyInfo.cs
+C:\Rashi\sumAssignment\sumAssignment\obj\Debug\netcoreapp3.1\sumAssignment.dll
+C:\Rashi\sumAssignment\sumAssignment\obj\Debug\netcoreapp3.1\sumAssignment.pdb
+C:\Rashi\sumAssignment\sumAssignment\obj\Debug\netcoreapp3.1\sumAssignment.genruntimeconfig.cache
