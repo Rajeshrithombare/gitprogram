@@ -1,0 +1,10 @@
+D:\Rashi\Usetrycatch\Usetrycatch\bin\Debug\netcoreapp3.1\Usetrycatch.exe
+D:\Rashi\Usetrycatch\Usetrycatch\bin\Debug\netcoreapp3.1\Usetrycatch.deps.json
+D:\Rashi\Usetrycatch\Usetrycatch\bin\Debug\netcoreapp3.1\Usetrycatch.runtimeconfig.json
+D:\Rashi\Usetrycatch\Usetrycatch\bin\Debug\netcoreapp3.1\Usetrycatch.runtimeconfig.dev.json
+D:\Rashi\Usetrycatch\Usetrycatch\bin\Debug\netcoreapp3.1\Usetrycatch.dll
+D:\Rashi\Usetrycatch\Usetrycatch\bin\Debug\netcoreapp3.1\Usetrycatch.pdb
+D:\Rashi\Usetrycatch\Usetrycatch\obj\Debug\netcoreapp3.1\Usetrycatch.AssemblyInfoInputs.cache
+D:\Rashi\Usetrycatch\Usetrycatch\obj\Debug\netcoreapp3.1\Usetrycatch.AssemblyInfo.cs
+D:\Rashi\Usetrycatch\Usetrycatch\obj\Debug\netcoreapp3.1\Usetrycatch.dll
+D:\Rashi\Usetrycatch\Usetrycatch\obj\Debug\netcoreapp3.1\Usetrycatch.pdb
