@@ -1,0 +1,11 @@
+D:\Rashi\AssiKhan3_3\AssiKhan3_3\bin\Debug\netcoreapp3.1\AssiKhan3_3.exe
+D:\Rashi\AssiKhan3_3\AssiKhan3_3\bin\Debug\netcoreapp3.1\AssiKhan3_3.deps.json
+D:\Rashi\AssiKhan3_3\AssiKhan3_3\bin\Debug\netcoreapp3.1\AssiKhan3_3.runtimeconfig.json
+D:\Rashi\AssiKhan3_3\AssiKhan3_3\bin\Debug\netcoreapp3.1\AssiKhan3_3.runtimeconfig.dev.json
+D:\Rashi\AssiKhan3_3\AssiKhan3_3\bin\Debug\netcoreapp3.1\AssiKhan3_3.dll
+D:\Rashi\AssiKhan3_3\AssiKhan3_3\bin\Debug\netcoreapp3.1\AssiKhan3_3.pdb
+D:\Rashi\AssiKhan3_3\AssiKhan3_3\obj\Debug\netcoreapp3.1\AssiKhan3_3.csprojAssemblyReference.cache
+D:\Rashi\AssiKhan3_3\AssiKhan3_3\obj\Debug\netcoreapp3.1\AssiKhan3_3.AssemblyInfoInputs.cache
+D:\Rashi\AssiKhan3_3\AssiKhan3_3\obj\Debug\netcoreapp3.1\AssiKhan3_3.AssemblyInfo.cs
+D:\Rashi\AssiKhan3_3\AssiKhan3_3\obj\Debug\netcoreapp3.1\AssiKhan3_3.dll
+D:\Rashi\AssiKhan3_3\AssiKhan3_3\obj\Debug\netcoreapp3.1\AssiKhan3_3.pdb

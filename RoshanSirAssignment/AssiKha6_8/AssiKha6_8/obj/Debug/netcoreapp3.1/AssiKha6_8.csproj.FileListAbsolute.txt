@@ -1,0 +1,11 @@
+D:\Rashi\AssiKha6_8\AssiKha6_8\obj\Debug\netcoreapp3.1\AssiKha6_8.csprojAssemblyReference.cache
+D:\Rashi\AssiKha6_8\AssiKha6_8\obj\Debug\netcoreapp3.1\AssiKha6_8.AssemblyInfoInputs.cache
+D:\Rashi\AssiKha6_8\AssiKha6_8\obj\Debug\netcoreapp3.1\AssiKha6_8.AssemblyInfo.cs
+D:\Rashi\AssiKha6_8\AssiKha6_8\bin\Debug\netcoreapp3.1\AssiKha6_8.exe
+D:\Rashi\AssiKha6_8\AssiKha6_8\bin\Debug\netcoreapp3.1\AssiKha6_8.deps.json
+D:\Rashi\AssiKha6_8\AssiKha6_8\bin\Debug\netcoreapp3.1\AssiKha6_8.runtimeconfig.json
+D:\Rashi\AssiKha6_8\AssiKha6_8\bin\Debug\netcoreapp3.1\AssiKha6_8.runtimeconfig.dev.json
+D:\Rashi\AssiKha6_8\AssiKha6_8\bin\Debug\netcoreapp3.1\AssiKha6_8.dll
+D:\Rashi\AssiKha6_8\AssiKha6_8\bin\Debug\netcoreapp3.1\AssiKha6_8.pdb
+D:\Rashi\AssiKha6_8\AssiKha6_8\obj\Debug\netcoreapp3.1\AssiKha6_8.dll
+D:\Rashi\AssiKha6_8\AssiKha6_8\obj\Debug\netcoreapp3.1\AssiKha6_8.pdb

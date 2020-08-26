@@ -1,0 +1,10 @@
+D:\Rashi\AssiKha6_11\AssiKha6_11\bin\Debug\netcoreapp3.1\AssiKha6_11.exe
+D:\Rashi\AssiKha6_11\AssiKha6_11\bin\Debug\netcoreapp3.1\AssiKha6_11.deps.json
+D:\Rashi\AssiKha6_11\AssiKha6_11\bin\Debug\netcoreapp3.1\AssiKha6_11.runtimeconfig.json
+D:\Rashi\AssiKha6_11\AssiKha6_11\bin\Debug\netcoreapp3.1\AssiKha6_11.runtimeconfig.dev.json
+D:\Rashi\AssiKha6_11\AssiKha6_11\bin\Debug\netcoreapp3.1\AssiKha6_11.dll
+D:\Rashi\AssiKha6_11\AssiKha6_11\bin\Debug\netcoreapp3.1\AssiKha6_11.pdb
+D:\Rashi\AssiKha6_11\AssiKha6_11\obj\Debug\netcoreapp3.1\AssiKha6_11.AssemblyInfoInputs.cache
+D:\Rashi\AssiKha6_11\AssiKha6_11\obj\Debug\netcoreapp3.1\AssiKha6_11.AssemblyInfo.cs
+D:\Rashi\AssiKha6_11\AssiKha6_11\obj\Debug\netcoreapp3.1\AssiKha6_11.dll
+D:\Rashi\AssiKha6_11\AssiKha6_11\obj\Debug\netcoreapp3.1\AssiKha6_11.pdb
