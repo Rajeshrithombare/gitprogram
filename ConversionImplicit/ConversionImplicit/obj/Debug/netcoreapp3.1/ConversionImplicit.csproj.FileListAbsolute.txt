@@ -1,0 +1,11 @@
+D:\Rashi\ConversionImplicit\ConversionImplicit\bin\Debug\netcoreapp3.1\ConversionImplicit.exe
+D:\Rashi\ConversionImplicit\ConversionImplicit\bin\Debug\netcoreapp3.1\ConversionImplicit.deps.json
+D:\Rashi\ConversionImplicit\ConversionImplicit\bin\Debug\netcoreapp3.1\ConversionImplicit.runtimeconfig.json
+D:\Rashi\ConversionImplicit\ConversionImplicit\bin\Debug\netcoreapp3.1\ConversionImplicit.runtimeconfig.dev.json
+D:\Rashi\ConversionImplicit\ConversionImplicit\bin\Debug\netcoreapp3.1\ConversionImplicit.dll
+D:\Rashi\ConversionImplicit\ConversionImplicit\bin\Debug\netcoreapp3.1\ConversionImplicit.pdb
+D:\Rashi\ConversionImplicit\ConversionImplicit\obj\Debug\netcoreapp3.1\ConversionImplicit.csprojAssemblyReference.cache
+D:\Rashi\ConversionImplicit\ConversionImplicit\obj\Debug\netcoreapp3.1\ConversionImplicit.AssemblyInfoInputs.cache
+D:\Rashi\ConversionImplicit\ConversionImplicit\obj\Debug\netcoreapp3.1\ConversionImplicit.AssemblyInfo.cs
+D:\Rashi\ConversionImplicit\ConversionImplicit\obj\Debug\netcoreapp3.1\ConversionImplicit.dll
+D:\Rashi\ConversionImplicit\ConversionImplicit\obj\Debug\netcoreapp3.1\ConversionImplicit.pdb
