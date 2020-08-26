@@ -1,0 +1,10 @@
+D:\Rashi\Enternumadshowinword\Enternumadshowinword\bin\Debug\netcoreapp3.1\Enternumadshowinword.exe
+D:\Rashi\Enternumadshowinword\Enternumadshowinword\bin\Debug\netcoreapp3.1\Enternumadshowinword.deps.json
+D:\Rashi\Enternumadshowinword\Enternumadshowinword\bin\Debug\netcoreapp3.1\Enternumadshowinword.runtimeconfig.json
+D:\Rashi\Enternumadshowinword\Enternumadshowinword\bin\Debug\netcoreapp3.1\Enternumadshowinword.runtimeconfig.dev.json
+D:\Rashi\Enternumadshowinword\Enternumadshowinword\bin\Debug\netcoreapp3.1\Enternumadshowinword.dll
+D:\Rashi\Enternumadshowinword\Enternumadshowinword\bin\Debug\netcoreapp3.1\Enternumadshowinword.pdb
+D:\Rashi\Enternumadshowinword\Enternumadshowinword\obj\Debug\netcoreapp3.1\Enternumadshowinword.AssemblyInfoInputs.cache
+D:\Rashi\Enternumadshowinword\Enternumadshowinword\obj\Debug\netcoreapp3.1\Enternumadshowinword.AssemblyInfo.cs
+D:\Rashi\Enternumadshowinword\Enternumadshowinword\obj\Debug\netcoreapp3.1\Enternumadshowinword.dll
+D:\Rashi\Enternumadshowinword\Enternumadshowinword\obj\Debug\netcoreapp3.1\Enternumadshowinword.pdb
