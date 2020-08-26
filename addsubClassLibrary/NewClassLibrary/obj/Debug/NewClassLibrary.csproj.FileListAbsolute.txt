@@ -1,0 +1,5 @@
+D:\Rashi\NewClassLibrary\NewClassLibrary\bin\Debug\NewClassLibrary.dll
+D:\Rashi\NewClassLibrary\NewClassLibrary\bin\Debug\NewClassLibrary.pdb
+D:\Rashi\NewClassLibrary\NewClassLibrary\obj\Debug\NewClassLibrary.csprojAssemblyReference.cache
+D:\Rashi\NewClassLibrary\NewClassLibrary\obj\Debug\NewClassLibrary.dll
+D:\Rashi\NewClassLibrary\NewClassLibrary\obj\Debug\NewClassLibrary.pdb
