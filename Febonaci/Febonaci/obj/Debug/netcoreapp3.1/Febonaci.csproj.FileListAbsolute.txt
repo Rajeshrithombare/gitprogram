@@ -1,0 +1,13 @@
+C:\Rashi\Febonaci\Febonaci\bin\Debug\netcoreapp3.1\Febonaci.exe
+C:\Rashi\Febonaci\Febonaci\bin\Debug\netcoreapp3.1\Febonaci.deps.json
+C:\Rashi\Febonaci\Febonaci\bin\Debug\netcoreapp3.1\Febonaci.runtimeconfig.json
+C:\Rashi\Febonaci\Febonaci\bin\Debug\netcoreapp3.1\Febonaci.runtimeconfig.dev.json
+C:\Rashi\Febonaci\Febonaci\bin\Debug\netcoreapp3.1\Febonaci.dll
+C:\Rashi\Febonaci\Febonaci\bin\Debug\netcoreapp3.1\Febonaci.pdb
+C:\Rashi\Febonaci\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.csprojAssemblyReference.cache
+C:\Rashi\Febonaci\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.csproj.CoreCompileInputs.cache
+C:\Rashi\Febonaci\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.AssemblyInfoInputs.cache
+C:\Rashi\Febonaci\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.AssemblyInfo.cs
+C:\Rashi\Febonaci\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.dll
+C:\Rashi\Febonaci\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.pdb
+C:\Rashi\Febonaci\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.genruntimeconfig.cache
