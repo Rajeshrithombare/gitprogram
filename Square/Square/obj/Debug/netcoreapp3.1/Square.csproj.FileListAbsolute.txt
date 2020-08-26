@@ -1,0 +1,10 @@
+D:\Rashi\Square\Square\bin\Debug\netcoreapp3.1\Square.exe
+D:\Rashi\Square\Square\bin\Debug\netcoreapp3.1\Square.deps.json
+D:\Rashi\Square\Square\bin\Debug\netcoreapp3.1\Square.runtimeconfig.json
+D:\Rashi\Square\Square\bin\Debug\netcoreapp3.1\Square.runtimeconfig.dev.json
+D:\Rashi\Square\Square\bin\Debug\netcoreapp3.1\Square.dll
+D:\Rashi\Square\Square\bin\Debug\netcoreapp3.1\Square.pdb
+D:\Rashi\Square\Square\obj\Debug\netcoreapp3.1\Square.AssemblyInfoInputs.cache
+D:\Rashi\Square\Square\obj\Debug\netcoreapp3.1\Square.AssemblyInfo.cs
+D:\Rashi\Square\Square\obj\Debug\netcoreapp3.1\Square.dll
+D:\Rashi\Square\Square\obj\Debug\netcoreapp3.1\Square.pdb
