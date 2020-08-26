@@ -1,0 +1,11 @@
+D:\Rashi\structwithcons\structwithcons\bin\Debug\netcoreapp3.1\structwithcons.exe
+D:\Rashi\structwithcons\structwithcons\bin\Debug\netcoreapp3.1\structwithcons.deps.json
+D:\Rashi\structwithcons\structwithcons\bin\Debug\netcoreapp3.1\structwithcons.runtimeconfig.json
+D:\Rashi\structwithcons\structwithcons\bin\Debug\netcoreapp3.1\structwithcons.runtimeconfig.dev.json
+D:\Rashi\structwithcons\structwithcons\bin\Debug\netcoreapp3.1\structwithcons.dll
+D:\Rashi\structwithcons\structwithcons\bin\Debug\netcoreapp3.1\structwithcons.pdb
+D:\Rashi\structwithcons\structwithcons\obj\Debug\netcoreapp3.1\structwithcons.csprojAssemblyReference.cache
+D:\Rashi\structwithcons\structwithcons\obj\Debug\netcoreapp3.1\structwithcons.AssemblyInfoInputs.cache
+D:\Rashi\structwithcons\structwithcons\obj\Debug\netcoreapp3.1\structwithcons.AssemblyInfo.cs
+D:\Rashi\structwithcons\structwithcons\obj\Debug\netcoreapp3.1\structwithcons.dll
+D:\Rashi\structwithcons\structwithcons\obj\Debug\netcoreapp3.1\structwithcons.pdb
