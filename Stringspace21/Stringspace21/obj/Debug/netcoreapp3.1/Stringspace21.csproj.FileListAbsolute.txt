@@ -1,0 +1,11 @@
+D:\Rashi\Stringspace21\Stringspace21\bin\Debug\netcoreapp3.1\Stringspace21.exe
+D:\Rashi\Stringspace21\Stringspace21\bin\Debug\netcoreapp3.1\Stringspace21.deps.json
+D:\Rashi\Stringspace21\Stringspace21\bin\Debug\netcoreapp3.1\Stringspace21.runtimeconfig.json
+D:\Rashi\Stringspace21\Stringspace21\bin\Debug\netcoreapp3.1\Stringspace21.runtimeconfig.dev.json
+D:\Rashi\Stringspace21\Stringspace21\bin\Debug\netcoreapp3.1\Stringspace21.dll
+D:\Rashi\Stringspace21\Stringspace21\bin\Debug\netcoreapp3.1\Stringspace21.pdb
+D:\Rashi\Stringspace21\Stringspace21\obj\Debug\netcoreapp3.1\Stringspace21.csprojAssemblyReference.cache
+D:\Rashi\Stringspace21\Stringspace21\obj\Debug\netcoreapp3.1\Stringspace21.AssemblyInfoInputs.cache
+D:\Rashi\Stringspace21\Stringspace21\obj\Debug\netcoreapp3.1\Stringspace21.AssemblyInfo.cs
+D:\Rashi\Stringspace21\Stringspace21\obj\Debug\netcoreapp3.1\Stringspace21.dll
+D:\Rashi\Stringspace21\Stringspace21\obj\Debug\netcoreapp3.1\Stringspace21.pdb
