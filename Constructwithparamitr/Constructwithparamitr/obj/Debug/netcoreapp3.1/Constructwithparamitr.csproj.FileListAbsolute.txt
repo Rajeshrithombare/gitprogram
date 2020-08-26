@@ -1,0 +1,11 @@
+D:\Rashi\Constructwithparamitr\Constructwithparamitr\bin\Debug\netcoreapp3.1\Constructwithparamitr.exe
+D:\Rashi\Constructwithparamitr\Constructwithparamitr\bin\Debug\netcoreapp3.1\Constructwithparamitr.deps.json
+D:\Rashi\Constructwithparamitr\Constructwithparamitr\bin\Debug\netcoreapp3.1\Constructwithparamitr.runtimeconfig.json
+D:\Rashi\Constructwithparamitr\Constructwithparamitr\bin\Debug\netcoreapp3.1\Constructwithparamitr.runtimeconfig.dev.json
+D:\Rashi\Constructwithparamitr\Constructwithparamitr\bin\Debug\netcoreapp3.1\Constructwithparamitr.dll
+D:\Rashi\Constructwithparamitr\Constructwithparamitr\bin\Debug\netcoreapp3.1\Constructwithparamitr.pdb
+D:\Rashi\Constructwithparamitr\Constructwithparamitr\obj\Debug\netcoreapp3.1\Constructwithparamitr.csprojAssemblyReference.cache
+D:\Rashi\Constructwithparamitr\Constructwithparamitr\obj\Debug\netcoreapp3.1\Constructwithparamitr.AssemblyInfoInputs.cache
+D:\Rashi\Constructwithparamitr\Constructwithparamitr\obj\Debug\netcoreapp3.1\Constructwithparamitr.AssemblyInfo.cs
+D:\Rashi\Constructwithparamitr\Constructwithparamitr\obj\Debug\netcoreapp3.1\Constructwithparamitr.dll
+D:\Rashi\Constructwithparamitr\Constructwithparamitr\obj\Debug\netcoreapp3.1\Constructwithparamitr.pdb
