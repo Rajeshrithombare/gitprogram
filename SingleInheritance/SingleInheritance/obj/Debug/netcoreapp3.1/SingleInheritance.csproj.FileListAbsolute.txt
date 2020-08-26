@@ -1,0 +1,11 @@
+D:\Rashi\SingleInheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.exe
+D:\Rashi\SingleInheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.deps.json
+D:\Rashi\SingleInheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.json
+D:\Rashi\SingleInheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.dev.json
+D:\Rashi\SingleInheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.dll
+D:\Rashi\SingleInheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.pdb
+D:\Rashi\SingleInheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csprojAssemblyReference.cache
+D:\Rashi\SingleInheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfoInputs.cache
+D:\Rashi\SingleInheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfo.cs
+D:\Rashi\SingleInheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.dll
+D:\Rashi\SingleInheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.pdb
