@@ -1,0 +1,11 @@
+D:\Rashi\vovelornotwithif\vovelornotwithif\bin\Debug\netcoreapp3.1\vovelornotwithif.exe
+D:\Rashi\vovelornotwithif\vovelornotwithif\bin\Debug\netcoreapp3.1\vovelornotwithif.deps.json
+D:\Rashi\vovelornotwithif\vovelornotwithif\bin\Debug\netcoreapp3.1\vovelornotwithif.runtimeconfig.json
+D:\Rashi\vovelornotwithif\vovelornotwithif\bin\Debug\netcoreapp3.1\vovelornotwithif.runtimeconfig.dev.json
+D:\Rashi\vovelornotwithif\vovelornotwithif\bin\Debug\netcoreapp3.1\vovelornotwithif.dll
+D:\Rashi\vovelornotwithif\vovelornotwithif\bin\Debug\netcoreapp3.1\vovelornotwithif.pdb
+D:\Rashi\vovelornotwithif\vovelornotwithif\obj\Debug\netcoreapp3.1\vovelornotwithif.csprojAssemblyReference.cache
+D:\Rashi\vovelornotwithif\vovelornotwithif\obj\Debug\netcoreapp3.1\vovelornotwithif.AssemblyInfoInputs.cache
+D:\Rashi\vovelornotwithif\vovelornotwithif\obj\Debug\netcoreapp3.1\vovelornotwithif.AssemblyInfo.cs
+D:\Rashi\vovelornotwithif\vovelornotwithif\obj\Debug\netcoreapp3.1\vovelornotwithif.dll
+D:\Rashi\vovelornotwithif\vovelornotwithif\obj\Debug\netcoreapp3.1\vovelornotwithif.pdb
