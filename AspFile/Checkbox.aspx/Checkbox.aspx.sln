@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkbox.aspx", "Checkbox.aspx\Checkbox.aspx.csproj", "{0A69A11B-2140-4E05-BDE9-8EF9EC9FF200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A69A11B-2140-4E05-BDE9-8EF9EC9FF200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A69A11B-2140-4E05-BDE9-8EF9EC9FF200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A69A11B-2140-4E05-BDE9-8EF9EC9FF200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A69A11B-2140-4E05-BDE9-8EF9EC9FF200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BB5EAE2-1E7D-44F0-A50B-FF65C37BC546}
+	EndGlobalSection
+EndGlobal
