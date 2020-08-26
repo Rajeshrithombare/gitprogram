@@ -1,0 +1,13 @@
+C:\Rashi\bhaskers\bhaskers\bin\Debug\netcoreapp3.1\bhaskers.exe
+C:\Rashi\bhaskers\bhaskers\bin\Debug\netcoreapp3.1\bhaskers.deps.json
+C:\Rashi\bhaskers\bhaskers\bin\Debug\netcoreapp3.1\bhaskers.runtimeconfig.json
+C:\Rashi\bhaskers\bhaskers\bin\Debug\netcoreapp3.1\bhaskers.runtimeconfig.dev.json
+C:\Rashi\bhaskers\bhaskers\bin\Debug\netcoreapp3.1\bhaskers.dll
+C:\Rashi\bhaskers\bhaskers\bin\Debug\netcoreapp3.1\bhaskers.pdb
+C:\Rashi\bhaskers\bhaskers\obj\Debug\netcoreapp3.1\bhaskers.csprojAssemblyReference.cache
+C:\Rashi\bhaskers\bhaskers\obj\Debug\netcoreapp3.1\bhaskers.csproj.CoreCompileInputs.cache
+C:\Rashi\bhaskers\bhaskers\obj\Debug\netcoreapp3.1\bhaskers.AssemblyInfoInputs.cache
+C:\Rashi\bhaskers\bhaskers\obj\Debug\netcoreapp3.1\bhaskers.AssemblyInfo.cs
+C:\Rashi\bhaskers\bhaskers\obj\Debug\netcoreapp3.1\bhaskers.dll
+C:\Rashi\bhaskers\bhaskers\obj\Debug\netcoreapp3.1\bhaskers.pdb
+C:\Rashi\bhaskers\bhaskers\obj\Debug\netcoreapp3.1\bhaskers.genruntimeconfig.cache
