@@ -1,0 +1,10 @@
+D:\Rashi\Vovelornotwithswitch\Vovelornotwithswitch\bin\Debug\netcoreapp3.1\Vovelornotwithswitch.exe
+D:\Rashi\Vovelornotwithswitch\Vovelornotwithswitch\bin\Debug\netcoreapp3.1\Vovelornotwithswitch.deps.json
+D:\Rashi\Vovelornotwithswitch\Vovelornotwithswitch\bin\Debug\netcoreapp3.1\Vovelornotwithswitch.runtimeconfig.json
+D:\Rashi\Vovelornotwithswitch\Vovelornotwithswitch\bin\Debug\netcoreapp3.1\Vovelornotwithswitch.runtimeconfig.dev.json
+D:\Rashi\Vovelornotwithswitch\Vovelornotwithswitch\bin\Debug\netcoreapp3.1\Vovelornotwithswitch.dll
+D:\Rashi\Vovelornotwithswitch\Vovelornotwithswitch\bin\Debug\netcoreapp3.1\Vovelornotwithswitch.pdb
+D:\Rashi\Vovelornotwithswitch\Vovelornotwithswitch\obj\Debug\netcoreapp3.1\Vovelornotwithswitch.AssemblyInfoInputs.cache
+D:\Rashi\Vovelornotwithswitch\Vovelornotwithswitch\obj\Debug\netcoreapp3.1\Vovelornotwithswitch.AssemblyInfo.cs
+D:\Rashi\Vovelornotwithswitch\Vovelornotwithswitch\obj\Debug\netcoreapp3.1\Vovelornotwithswitch.dll
+D:\Rashi\Vovelornotwithswitch\Vovelornotwithswitch\obj\Debug\netcoreapp3.1\Vovelornotwithswitch.pdb
