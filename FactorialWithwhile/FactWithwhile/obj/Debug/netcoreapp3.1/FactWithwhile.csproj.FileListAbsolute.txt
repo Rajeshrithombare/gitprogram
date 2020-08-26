@@ -1,0 +1,11 @@
+D:\Rashi\FactWithwhile\FactWithwhile\bin\Debug\netcoreapp3.1\FactWithwhile.exe
+D:\Rashi\FactWithwhile\FactWithwhile\bin\Debug\netcoreapp3.1\FactWithwhile.deps.json
+D:\Rashi\FactWithwhile\FactWithwhile\bin\Debug\netcoreapp3.1\FactWithwhile.runtimeconfig.json
+D:\Rashi\FactWithwhile\FactWithwhile\bin\Debug\netcoreapp3.1\FactWithwhile.runtimeconfig.dev.json
+D:\Rashi\FactWithwhile\FactWithwhile\bin\Debug\netcoreapp3.1\FactWithwhile.dll
+D:\Rashi\FactWithwhile\FactWithwhile\bin\Debug\netcoreapp3.1\FactWithwhile.pdb
+D:\Rashi\FactWithwhile\FactWithwhile\obj\Debug\netcoreapp3.1\FactWithwhile.csprojAssemblyReference.cache
+D:\Rashi\FactWithwhile\FactWithwhile\obj\Debug\netcoreapp3.1\FactWithwhile.AssemblyInfoInputs.cache
+D:\Rashi\FactWithwhile\FactWithwhile\obj\Debug\netcoreapp3.1\FactWithwhile.AssemblyInfo.cs
+D:\Rashi\FactWithwhile\FactWithwhile\obj\Debug\netcoreapp3.1\FactWithwhile.dll
+D:\Rashi\FactWithwhile\FactWithwhile\obj\Debug\netcoreapp3.1\FactWithwhile.pdb
