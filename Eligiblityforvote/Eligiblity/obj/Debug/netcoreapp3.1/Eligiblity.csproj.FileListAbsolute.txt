@@ -1,0 +1,10 @@
+D:\Rashi\Eligiblity\Eligiblity\obj\Debug\netcoreapp3.1\Eligiblity.AssemblyInfoInputs.cache
+D:\Rashi\Eligiblity\Eligiblity\obj\Debug\netcoreapp3.1\Eligiblity.AssemblyInfo.cs
+D:\Rashi\Eligiblity\Eligiblity\bin\Debug\netcoreapp3.1\Eligiblity.exe
+D:\Rashi\Eligiblity\Eligiblity\bin\Debug\netcoreapp3.1\Eligiblity.deps.json
+D:\Rashi\Eligiblity\Eligiblity\bin\Debug\netcoreapp3.1\Eligiblity.runtimeconfig.json
+D:\Rashi\Eligiblity\Eligiblity\bin\Debug\netcoreapp3.1\Eligiblity.runtimeconfig.dev.json
+D:\Rashi\Eligiblity\Eligiblity\bin\Debug\netcoreapp3.1\Eligiblity.dll
+D:\Rashi\Eligiblity\Eligiblity\bin\Debug\netcoreapp3.1\Eligiblity.pdb
+D:\Rashi\Eligiblity\Eligiblity\obj\Debug\netcoreapp3.1\Eligiblity.dll
+D:\Rashi\Eligiblity\Eligiblity\obj\Debug\netcoreapp3.1\Eligiblity.pdb
