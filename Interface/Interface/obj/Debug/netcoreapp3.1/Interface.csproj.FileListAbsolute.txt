@@ -1,0 +1,11 @@
+D:\Rashi\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+D:\Rashi\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+D:\Rashi\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+D:\Rashi\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+D:\Rashi\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+D:\Rashi\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+D:\Rashi\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+D:\Rashi\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+D:\Rashi\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+D:\Rashi\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+D:\Rashi\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
