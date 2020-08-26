@@ -1,0 +1,11 @@
+D:\Rashi\Staticconstructor\Staticconstructor\bin\Debug\netcoreapp3.1\Staticconstructor.exe
+D:\Rashi\Staticconstructor\Staticconstructor\bin\Debug\netcoreapp3.1\Staticconstructor.deps.json
+D:\Rashi\Staticconstructor\Staticconstructor\bin\Debug\netcoreapp3.1\Staticconstructor.runtimeconfig.json
+D:\Rashi\Staticconstructor\Staticconstructor\bin\Debug\netcoreapp3.1\Staticconstructor.runtimeconfig.dev.json
+D:\Rashi\Staticconstructor\Staticconstructor\bin\Debug\netcoreapp3.1\Staticconstructor.dll
+D:\Rashi\Staticconstructor\Staticconstructor\bin\Debug\netcoreapp3.1\Staticconstructor.pdb
+D:\Rashi\Staticconstructor\Staticconstructor\obj\Debug\netcoreapp3.1\Staticconstructor.csprojAssemblyReference.cache
+D:\Rashi\Staticconstructor\Staticconstructor\obj\Debug\netcoreapp3.1\Staticconstructor.AssemblyInfoInputs.cache
+D:\Rashi\Staticconstructor\Staticconstructor\obj\Debug\netcoreapp3.1\Staticconstructor.AssemblyInfo.cs
+D:\Rashi\Staticconstructor\Staticconstructor\obj\Debug\netcoreapp3.1\Staticconstructor.dll
+D:\Rashi\Staticconstructor\Staticconstructor\obj\Debug\netcoreapp3.1\Staticconstructor.pdb
