@@ -1,0 +1,11 @@
+D:\Rashi\NewInheritance\NewInheritance\bin\Debug\netcoreapp3.1\NewInheritance.exe
+D:\Rashi\NewInheritance\NewInheritance\bin\Debug\netcoreapp3.1\NewInheritance.deps.json
+D:\Rashi\NewInheritance\NewInheritance\bin\Debug\netcoreapp3.1\NewInheritance.runtimeconfig.json
+D:\Rashi\NewInheritance\NewInheritance\bin\Debug\netcoreapp3.1\NewInheritance.runtimeconfig.dev.json
+D:\Rashi\NewInheritance\NewInheritance\bin\Debug\netcoreapp3.1\NewInheritance.dll
+D:\Rashi\NewInheritance\NewInheritance\bin\Debug\netcoreapp3.1\NewInheritance.pdb
+D:\Rashi\NewInheritance\NewInheritance\obj\Debug\netcoreapp3.1\NewInheritance.csprojAssemblyReference.cache
+D:\Rashi\NewInheritance\NewInheritance\obj\Debug\netcoreapp3.1\NewInheritance.AssemblyInfoInputs.cache
+D:\Rashi\NewInheritance\NewInheritance\obj\Debug\netcoreapp3.1\NewInheritance.AssemblyInfo.cs
+D:\Rashi\NewInheritance\NewInheritance\obj\Debug\netcoreapp3.1\NewInheritance.dll
+D:\Rashi\NewInheritance\NewInheritance\obj\Debug\netcoreapp3.1\NewInheritance.pdb
