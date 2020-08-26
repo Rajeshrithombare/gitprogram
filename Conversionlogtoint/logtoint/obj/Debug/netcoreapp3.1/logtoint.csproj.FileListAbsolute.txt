@@ -1,0 +1,24 @@
+D:\Rashi\logtoint\logtoint\bin\Debug\netcoreapp3.1\logtoint.exe
+D:\Rashi\logtoint\logtoint\bin\Debug\netcoreapp3.1\logtoint.deps.json
+D:\Rashi\logtoint\logtoint\bin\Debug\netcoreapp3.1\logtoint.runtimeconfig.json
+D:\Rashi\logtoint\logtoint\bin\Debug\netcoreapp3.1\logtoint.runtimeconfig.dev.json
+D:\Rashi\logtoint\logtoint\bin\Debug\netcoreapp3.1\logtoint.dll
+D:\Rashi\logtoint\logtoint\bin\Debug\netcoreapp3.1\logtoint.pdb
+D:\Rashi\logtoint\logtoint\obj\Debug\netcoreapp3.1\logtoint.csprojAssemblyReference.cache
+D:\Rashi\logtoint\logtoint\obj\Debug\netcoreapp3.1\logtoint.AssemblyInfoInputs.cache
+D:\Rashi\logtoint\logtoint\obj\Debug\netcoreapp3.1\logtoint.AssemblyInfo.cs
+D:\Rashi\logtoint\logtoint\obj\Debug\netcoreapp3.1\logtoint.dll
+D:\Rashi\logtoint\logtoint\obj\Debug\netcoreapp3.1\logtoint.pdb
+D:\Myprograms\New Programs\logtoint\logtoint\bin\Debug\netcoreapp3.1\logtoint.exe
+D:\Myprograms\New Programs\logtoint\logtoint\bin\Debug\netcoreapp3.1\logtoint.deps.json
+D:\Myprograms\New Programs\logtoint\logtoint\bin\Debug\netcoreapp3.1\logtoint.runtimeconfig.json
+D:\Myprograms\New Programs\logtoint\logtoint\bin\Debug\netcoreapp3.1\logtoint.runtimeconfig.dev.json
+D:\Myprograms\New Programs\logtoint\logtoint\bin\Debug\netcoreapp3.1\logtoint.dll
+D:\Myprograms\New Programs\logtoint\logtoint\bin\Debug\netcoreapp3.1\logtoint.pdb
+D:\Myprograms\New Programs\logtoint\logtoint\obj\Debug\netcoreapp3.1\logtoint.csprojAssemblyReference.cache
+D:\Myprograms\New Programs\logtoint\logtoint\obj\Debug\netcoreapp3.1\logtoint.AssemblyInfoInputs.cache
+D:\Myprograms\New Programs\logtoint\logtoint\obj\Debug\netcoreapp3.1\logtoint.AssemblyInfo.cs
+D:\Myprograms\New Programs\logtoint\logtoint\obj\Debug\netcoreapp3.1\logtoint.csproj.CoreCompileInputs.cache
+D:\Myprograms\New Programs\logtoint\logtoint\obj\Debug\netcoreapp3.1\logtoint.dll
+D:\Myprograms\New Programs\logtoint\logtoint\obj\Debug\netcoreapp3.1\logtoint.pdb
+D:\Myprograms\New Programs\logtoint\logtoint\obj\Debug\netcoreapp3.1\logtoint.genruntimeconfig.cache
