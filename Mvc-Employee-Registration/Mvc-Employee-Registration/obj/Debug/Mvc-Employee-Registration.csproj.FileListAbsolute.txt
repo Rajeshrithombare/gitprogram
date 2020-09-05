@@ -76,4 +76,3 @@ D:\Rashi\Mvc-Employee-Registration\Mvc-Employee-Registration\obj\Debug\Mvc-Emplo
 D:\Rashi\Mvc-Employee-Registration\Mvc-Employee-Registration\obj\Debug\Mvc-Employee-Registration.csproj.CopyComplete
 D:\Rashi\Mvc-Employee-Registration\Mvc-Employee-Registration\obj\Debug\Mvc-Employee-Registration.dll
 D:\Rashi\Mvc-Employee-Registration\Mvc-Employee-Registration\obj\Debug\Mvc-Employee-Registration.pdb
-D:\Rashi\Mvc-Employee-Registration\Mvc-Employee-Registration\obj\Debug\Mvc-Employee-Registration.csprojAssemblyReference.cache
