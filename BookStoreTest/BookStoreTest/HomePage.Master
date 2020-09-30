@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HomePage.master.cs" Inherits="BookStoreTest.HomePage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            font-size: xx-large;
+        }
+        .auto-style2 {
+            text-align: center;
+        }
+        .auto-style3 {
+            color: #FF5050;
+        }
+        .auto-style4 {
+            color: #CC0000;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="auto-style2">
+&nbsp;<span class="auto-style1"> </span><strong><span class="auto-style1"><span class="auto-style3">Online
+        <%--<div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>--%>
+            Book Store</span></span></strong><br />
+            <br />
+            <br />
+            <br />
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="Login.aspx">Sign In</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="CreateLogin.aspx">Sign UP</asp:HyperLink>
+&nbsp;<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+            </asp:ContentPlaceHolder>
+            <br />
+            <br />
+            <br />
+            <span class="auto-style4">@All rights Reserved</span><br />
+            <br />
+            <br />
+            <br />
+            <br />
+        </div>
+    </form>
+</body>
+</html>
