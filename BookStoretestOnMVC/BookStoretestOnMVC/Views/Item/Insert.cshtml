@@ -1,0 +1,120 @@
+﻿@model BookStoretestOnMVC.Models.BookUserClass
+
+@{
+    ViewBag.Title = "Insert";
+}
+
+
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @Html.ActionLink("Add Book", "Insert", "Item", new { area = "" }, new { @class = "navbar-brand" })
+            @Html.ActionLink("Desplay Record", "ShowList", "Item", new { area = "" }, new { @class = "navbar-brand" })
+            @*@Html.ActionLink("Sign Up", "Index", "UserLogin", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("Sign In", "Login", "UserLogin", new { area = "" }, new { @class = "navbar-brand" })*@
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+            </ul>
+        </div>
+    </div>
+</div>
+
+<h2 align="center">Online Book Store</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <body style="background-color:azure">
+            <h4></h4>
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.BookName, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.BookName, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.BookName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Mrp, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Mrp, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Mrp, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Author, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @*@Html.EditorFor(model => model.Author, new { htmlAttributes = new { @class = "form-control" } })*@
+                    @Html.ValidationMessageFor(model => model.Author, "", new { @class = "text-danger" })
+                    <select class="from-group" id="Author" name="Author">
+                        <option selected disabled>---Select----</option>
+                        <option>Chetan Bhagat</option>
+                        <option>Durjoy datta</option>
+                        <option>Sandip Mheshwari</option>
+                        <option>Sachit Sharma</option>
+                    </select>
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Category, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @*@Html.EditorFor(model => model.Category, new { htmlAttributes = new { @class = "form-control" } })*@
+                    @Html.ValidationMessageFor(model => model.Category, "", new { @class = "text-danger" })
+                    <select class="from-group" id="Category" name="Category">
+                        <option selected disabled>---Select----</option>
+                        <option>Triller</option>
+                        <option>Comedy</option>
+                        <option>Love Story</option>
+                        <option>Horrar</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Publisher, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+
+                    @Html.ValidationMessageFor(model => model.Publisher, "", new { @class = "text-danger" })
+
+                    <select class="from-group" id="Publisher" name="Publisher">
+                        <option selected disabled>---Select----</option>
+                        <option>Sema Publisher</option>
+                        <option>VCD Publisher</option>
+                        <option>Mintra Publisher</option>
+                        <option>OPE Publisher</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Add Book" class="btn btn-default" />
+                </div>
+            </div>
+            @Html.ViewBag.Msg
+    </div>
+
+}
+
+<div>
+    @Html.ActionLink("Back to List", "ShowList")
+</div>
+
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
