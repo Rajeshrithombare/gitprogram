@@ -1,0 +1,12 @@
+D:\Rashi\Widowsformmachitest\Widowsformmachitest\bin\Debug\Widowsformmachitest.exe.config
+D:\Rashi\Widowsformmachitest\Widowsformmachitest\bin\Debug\Widowsformmachitest.exe
+D:\Rashi\Widowsformmachitest\Widowsformmachitest\bin\Debug\Widowsformmachitest.pdb
+D:\Rashi\Widowsformmachitest\Widowsformmachitest\obj\Debug\Widowsformmachitest.Form1.resources
+D:\Rashi\Widowsformmachitest\Widowsformmachitest\obj\Debug\Widowsformmachitest.Properties.Resources.resources
+D:\Rashi\Widowsformmachitest\Widowsformmachitest\obj\Debug\Widowsformmachitest.csproj.GenerateResource.cache
+D:\Rashi\Widowsformmachitest\Widowsformmachitest\obj\Debug\Widowsformmachitest.csproj.CoreCompileInputs.cache
+D:\Rashi\Widowsformmachitest\Widowsformmachitest\obj\Debug\Widowsformmachitest.exe
+D:\Rashi\Widowsformmachitest\Widowsformmachitest\obj\Debug\Widowsformmachitest.pdb
+D:\Rashi\Widowsformmachitest\Widowsformmachitest\obj\Debug\Widowsformmachitest.Register.resources
+D:\Rashi\Widowsformmachitest\Widowsformmachitest\obj\Debug\Widowsformmachitest.Test.resources
+D:\Rashi\Widowsformmachitest\Widowsformmachitest\obj\Debug\Widowsformmachitest.Test2.resources
